@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.DS_Store
+data/*.jpg
+source_cache/
+fonts/
+.cache/

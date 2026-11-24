@@ -1,0 +1,2225 @@
+{
+  "selection": "100 of CC BY2 images in author Karpathy test, disjoint from author train/val lists; sorted candidate IDs, Python random.Random(42).sample then sort",
+  "seed": 42,
+  "candidate_count": 823,
+  "n": 100,
+  "references_per_image": 5,
+  "known_train_overlap": 0,
+  "known_val_overlap": 0,
+  "sources": {
+    "captions": "https://raw.githubusercontent.com/tylin/coco-caption/master/annotations/captions_val2014.json",
+    "test": "https://storage.googleapis.com/sfr-vision-language-research/datasets/coco_karpathy_test.json",
+    "train": "https://storage.googleapis.com/sfr-vision-language-research/datasets/coco_karpathy_train.json",
+    "val": "https://storage.googleapis.com/sfr-vision-language-research/datasets/coco_karpathy_val.json"
+  },
+  "source_sha256": {
+    "captions": "ee4c7a657443714cc448e12e6193c4d4616de8ad2382a07b8f702ee5e3c46d2b",
+    "test": "5b202a235ee2a4e13f82b984ef9293b8e2d34f9b1f92147bf8340580f20faf15",
+    "train": "462663b401a451f9d1f8b9d0c7fc7dffc387b5392a8d2b5e5d5e5393e4893bfb",
+    "val": "51f6dcf544cc0d3bd7086b1cd5aa3dcc9a26fcc718e623099027a902da06a848"
+  },
+  "annotation_license": "CC BY 4.0 COCO Consortium",
+  "images": [
+    {
+      "image_id": 4972,
+      "file_name": "COCO_val2014_000000004972.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000004972.jpg",
+      "flickr_url": "http://farm6.staticflickr.com/5518/9328485987_750aa29bca_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 321,
+      "references": [
+        "A BLACK AND WHITE PIC OF A MAN AND A HORSE ",
+        "A man in armor is seated on a wood frame by a horse.",
+        "A man sits on a pile of logs beside his horse.",
+        "A man sitting on a bench next to a horse.",
+        "a man holding a horse dressed like a knight"
+      ],
+      "sha256": "3357434d4d457f91281aafa0e713efbdb2317b8ccba983b80b8275e35b8b8ba0",
+      "bytes": 163593
+    },
+    {
+      "image_id": 19888,
+      "file_name": "COCO_val2014_000000019888.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000019888.jpg",
+      "flickr_url": "http://farm9.staticflickr.com/8379/8578409608_ec4232217f_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 427,
+      "references": [
+        "A bed sitting on a hard wood floor.",
+        "a thrown together bed beside a very large picture picture window",
+        "An empty bed with a teddy bear laying on it.",
+        "A bed with grey sheets in a room with wooden floors. ",
+        "a bed with a big grey comforter on it "
+      ],
+      "sha256": "c396521808bfde59b56d14b48c6e41a42f51f761b24432fac297e4867582cf18",
+      "bytes": 182674
+    },
+    {
+      "image_id": 21198,
+      "file_name": "COCO_val2014_000000021198.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000021198.jpg",
+      "flickr_url": "http://farm9.staticflickr.com/8352/8296906244_a5e72c62be_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 612,
+      "height": 612,
+      "references": [
+        "A woman sitting at a table inside of a kitchen.",
+        "Two boys sitting at a table while eating.",
+        "A couple of people sitting at a dining room table.",
+        "A kitchen area has hard wood flooring a dining room table and chairs and dark wood cabinets.",
+        "A person sitting in a dark room with a bright light coming in the window."
+      ],
+      "sha256": "09380150b1421da0ffebe66670266bc9856311babf8058aa8283218dbbb624d0",
+      "bytes": 182453
+    },
+    {
+      "image_id": 23117,
+      "file_name": "COCO_val2014_000000023117.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000023117.jpg",
+      "flickr_url": "http://farm6.staticflickr.com/5039/5795067153_725da9c0ed_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 483,
+      "height": 640,
+      "references": [
+        "two men dressed in suits covered in images of clouds under umbrellas",
+        "Two men in suits are standing next to each other, both holding umbrellas with lights in them.",
+        "Man and women in room wearing costumes holding umbrella's.",
+        "Two gentlemen doing a show with umbrellas and colorful suits.",
+        "Two people are wearing suits with clouds painted on them underneath lighted umbrellas. "
+      ],
+      "sha256": "a934ac18024796421cfdea9ca4b2cc7d4756566fbdd9611c19ff7e174cf69c40",
+      "bytes": 264288
+    },
+    {
+      "image_id": 23351,
+      "file_name": "COCO_val2014_000000023351.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000023351.jpg",
+      "flickr_url": "http://farm4.staticflickr.com/3192/2645098095_1893552864_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 240,
+      "height": 320,
+      "references": [
+        "A giraffe that is laying on the ground.",
+        "A giraffe lays down in an enclosure. ",
+        "some giraffes dirt trees fence and a building",
+        "A giraffe sitting down while another giraffes eats on branches. ",
+        "Three giraffes, one seated on some dirt, the other two standing."
+      ],
+      "sha256": "ea6650026755d347dfee42354701bde93163410fde240380591bf4d4a0707a76",
+      "bytes": 41707
+    },
+    {
+      "image_id": 33144,
+      "file_name": "COCO_val2014_000000033144.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000033144.jpg",
+      "flickr_url": "http://farm8.staticflickr.com/7073/7173268755_9790cae8a8_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 640,
+      "references": [
+        "There s a van with grafting on thevoutsidevif the van",
+        "A box truck painted with graffiti parked on the road.",
+        "A box truck covered in graffiti parked on the side of the road.",
+        "a parked truck with lots of graffiti written on it",
+        "a small cargo van covered in graffiti sitting on the side of the road"
+      ],
+      "sha256": "75bd9f338d4238932e4d165ee8261896dc6fd0d524858be4002429d824765b0a",
+      "bytes": 287649
+    },
+    {
+      "image_id": 33672,
+      "file_name": "COCO_val2014_000000033672.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000033672.jpg",
+      "flickr_url": "http://farm3.staticflickr.com/2854/10020945424_e1bbc9347f_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 452,
+      "height": 640,
+      "references": [
+        "A person riding on the back of a white horse through a dirt field.",
+        "A man with a helmet on a horse in a corral.",
+        "An individual with a green helmet riding a white and brown horse.",
+        "A brightly dressed rider is on a pinto.",
+        "A girl in is riding a white horse on a sunny day."
+      ],
+      "sha256": "4f4ce0d398b1047a9912f4a79cf721f117ecdb135588d11fc6fddbafbe69e8d1",
+      "bytes": 210407
+    },
+    {
+      "image_id": 53892,
+      "file_name": "COCO_val2014_000000053892.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000053892.jpg",
+      "flickr_url": "http://farm8.staticflickr.com/7369/9083562669_f7f9da3888_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 612,
+      "height": 612,
+      "references": [
+        "A box filled with donuts with frosting check marks.",
+        "A bunch of doughnuts sitting in a basket.",
+        "A box that has doughnuts inside of it.",
+        "two donuts shaped like squares with checkmarks on them",
+        "The donuts all have decorative frosting on the top."
+      ],
+      "sha256": "6ccf634650617dfd065870105e92117de4d9ccbf9fb1addf7529a00ee30d1d56",
+      "bytes": 156787
+    },
+    {
+      "image_id": 55010,
+      "file_name": "COCO_val2014_000000055010.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000055010.jpg",
+      "flickr_url": "http://farm5.staticflickr.com/4047/4379535562_81910ca7e9_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 500,
+      "height": 333,
+      "references": [
+        "an image of  plate with food on it",
+        "A nicely arranged plate of food with meat, carrots and a roll.",
+        "Meat, carrots, and a roll sit on a small white plate.",
+        "white plate with meal of carrots, roll and a meat",
+        "A plate full of snacks kept on the table mat."
+      ],
+      "sha256": "a48660fe99bdb7e012d90d68ac5d573b0dc8930120046fa5c69e5f9eb1389a06",
+      "bytes": 100460
+    },
+    {
+      "image_id": 58492,
+      "file_name": "COCO_val2014_000000058492.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000058492.jpg",
+      "flickr_url": "http://farm9.staticflickr.com/8032/8063653249_89d833a5d5_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 348,
+      "references": [
+        "A bird standing on top of a beach next to water.",
+        "A large stork spreads it's wings as it lands.",
+        "A crane with fully extended wings landing on a marshy ground.",
+        "Vulture swooping down toward the ground in landscape.",
+        "This bird has a long beak, long legs and a wide wingspan."
+      ],
+      "sha256": "92ede4d7f346a8b4bdc54fa7d3329208570ea5d0bec18180ce348f0c526cba41",
+      "bytes": 246297
+    },
+    {
+      "image_id": 58569,
+      "file_name": "COCO_val2014_000000058569.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000058569.jpg",
+      "flickr_url": "http://farm8.staticflickr.com/7306/8717783456_6087168317_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 480,
+      "references": [
+        "two public transit buses on a city street",
+        "A red bus driving in front of a white bus.",
+        "colorful buses on a busy city street at dark.",
+        "a red bus is in front of another one",
+        "Many buses drive down a street in a single file line"
+      ],
+      "sha256": "219578c646125d10fbd2a4ceffcae1304d572819b6e3cca3bbf63f14d9caaaa2",
+      "bytes": 192800
+    },
+    {
+      "image_id": 66179,
+      "file_name": "COCO_val2014_000000066179.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000066179.jpg",
+      "flickr_url": "http://farm8.staticflickr.com/7275/7672841360_f4e156eaea_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 480,
+      "height": 640,
+      "references": [
+        "A large green banana plant sitting next to a wooden fence.",
+        "Bananas growing on a stalk near other tropical plants and a fence.",
+        "A banana tree with bananas hanging from its branches",
+        "Green bananas on a tree with a flower at the end of the branch.",
+        "The banana plant is growing fruit that is almost ready to be picked."
+      ],
+      "sha256": "fec02386c90153313eccc96dec08dfdf2eb7c64327abaa7b3faf0330f2ea09c6",
+      "bytes": 235052
+    },
+    {
+      "image_id": 69392,
+      "file_name": "COCO_val2014_000000069392.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000069392.jpg",
+      "flickr_url": "http://farm3.staticflickr.com/2465/3654057999_2b4d8ffe3f_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 500,
+      "height": 375,
+      "references": [
+        "A group of people that are standing on a tennis court.",
+        "A group of people who are on a tennis court.",
+        "a few people that are playing tennis on a court",
+        "A group of people standing on top of a tennis court.",
+        "some people standing on a tennis court holding tennis racketts"
+      ],
+      "sha256": "47321f4ae31b50a7b63058a606df709329d75be0ba92240a375223e815b55bb7",
+      "bytes": 97721
+    },
+    {
+      "image_id": 71171,
+      "file_name": "COCO_val2014_000000071171.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000071171.jpg",
+      "flickr_url": "http://farm2.staticflickr.com/1110/5158229427_1861469d6a_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 480,
+      "references": [
+        "A meal at a restaurant of a salad, a toasted sandwich and a pickle",
+        "A plate of food containing a sandwich and a salad.",
+        "A grilled cheese sandwich with a side of salad and a pickle",
+        "A plate with a sandwich and a pickle",
+        "there is a sandwich and lettuce on a plate"
+      ],
+      "sha256": "58f211eea5b415f7644bc58bb9cd71743c758431642bc6618c7f80d37113fd09",
+      "bytes": 180314
+    },
+    {
+      "image_id": 74733,
+      "file_name": "COCO_val2014_000000074733.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000074733.jpg",
+      "flickr_url": "http://farm6.staticflickr.com/5461/9330037796_1700b955f3_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 612,
+      "height": 612,
+      "references": [
+        "two flatbread pieces covered with different ingredients in between a flight of beers",
+        "A table topped with three mugs of beer and two pizza's.",
+        "Two small flat breads with beer samplers on each side.",
+        "A wooden table holding multiple beers and a plate of food with pizza on it.",
+        "A view of a bunch of pizzas sitting on a table."
+      ],
+      "sha256": "d99c93fb6d22a5d51bbb6e09ca5f10c11bdcf90a711abf6cc83188df52cc456a",
+      "bytes": 178821
+    },
+    {
+      "image_id": 75888,
+      "file_name": "COCO_val2014_000000075888.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000075888.jpg",
+      "flickr_url": "http://farm9.staticflickr.com/8071/8362152118_d10dbcce6c_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 480,
+      "height": 640,
+      "references": [
+        "Some colorful fresh fruit and veggies cleverly arranged.",
+        "A clown face made of yellow squash for the eyebrows, cucumber slices for eyes, a cherry tomato nose and a carrot smile.",
+        "A plate of different types of food together.",
+        "A plate with a clown face made from sliced vegetables on sliced cheese.",
+        "A plate with fruit and vegetable in the shape of a smiley face."
+      ],
+      "sha256": "63c7306a00f6f63c93dd82784e6725fdf1797856b1925b10c8edea214b166f1c",
+      "bytes": 221205
+    },
+    {
+      "image_id": 77181,
+      "file_name": "COCO_val2014_000000077181.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000077181.jpg",
+      "flickr_url": "http://farm8.staticflickr.com/7176/6871370529_5d4cc1a9bb_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 457,
+      "references": [
+        "Young person practicing first aid technique with others on grassy area.",
+        "Some people gathered around a CPR mannequin to learn CPR.",
+        "The woman is learning something on a mannequin. ",
+        "Some people gathered together around a dummy on a board.",
+        "A group of young people learning something outdoors."
+      ],
+      "sha256": "406ded79ece30c17ae82f9d15555cbfbd750a5dc146b8d1c3acf716c2fffcff2",
+      "bytes": 244369
+    },
+    {
+      "image_id": 85527,
+      "file_name": "COCO_val2014_000000085527.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000085527.jpg",
+      "flickr_url": "http://farm5.staticflickr.com/4008/4241968631_0caaac72ee_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 426,
+      "references": [
+        "A man in a tuxedo is holding a beer",
+        "A man smiling while holding his drink in one hand. ",
+        "A man celebrating and dancing with a beer.",
+        "a man holding a drink while wearing a suit and tie.",
+        "A man who is wearing a suit and holding a beer."
+      ],
+      "sha256": "fb468349b856e1198439a626b59a402fb816e7edf15b2a13d2e655d125edeccf",
+      "bytes": 74115
+    },
+    {
+      "image_id": 91045,
+      "file_name": "COCO_val2014_000000091045.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000091045.jpg",
+      "flickr_url": "http://farm5.staticflickr.com/4122/4784773961_9af01d4faa_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 480,
+      "references": [
+        "a couple of men that are posing for a picture",
+        "Two men in suits and ties with woman behind one of the men",
+        "Two men standing together smiling with glasses in their hands. ",
+        "THERE ARE TWO MEN THAT ARE STANDNG BY EACH OTHER ",
+        "Two young men holding champagne glasses and smiling with a painting in the background."
+      ],
+      "sha256": "43e2af2e203eef297ebe6158ac94d6b59e32435c598ac29833b8988dc1ce4d7c",
+      "bytes": 155464
+    },
+    {
+      "image_id": 101491,
+      "file_name": "COCO_val2014_000000101491.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000101491.jpg",
+      "flickr_url": "http://farm8.staticflickr.com/7118/7154178644_9cf597b3ab_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 480,
+      "height": 640,
+      "references": [
+        "A teenager wheeling a suitcase down a crowded street.",
+        "A young man walking down a sidewalk pulling his travel bag as others watch.",
+        "A person with a suitcase on a street.",
+        "The person who is walking is pulling a suitcase.",
+        "a man walking down the road with a suitcase"
+      ],
+      "sha256": "fadce8f094b7574aed7fb90618f739b2da6484db5dd45edb0d7f83198a7cee40",
+      "bytes": 123221
+    },
+    {
+      "image_id": 117458,
+      "file_name": "COCO_val2014_000000117458.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000117458.jpg",
+      "flickr_url": "http://farm8.staticflickr.com/7229/6889339562_3826470a09_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 428,
+      "references": [
+        "A man is riding with a box on the back of his bike.",
+        "A motorcycle on the road has a basket on the back.",
+        "A motorcycle on the road carrying a large box.",
+        "A delivery motorcyclist travels swiftly down the road.",
+        "a man driving a motorcycle down the road with a box tied to the back of it"
+      ],
+      "sha256": "706631c00545cacc34e7bfa5eb4a31a33e3ba9cebe9bc9545a2b66d44e212843",
+      "bytes": 83099
+    },
+    {
+      "image_id": 120792,
+      "file_name": "COCO_val2014_000000120792.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000120792.jpg",
+      "flickr_url": "http://farm1.staticflickr.com/151/341629425_2319f303b1_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 480,
+      "references": [
+        "Two men stand in front of a television playing video games.",
+        "two men in a basement watching television in what looks like a man cave.",
+        "Two men are standing in front of a television playing Wii.",
+        "a couple of men with wii remotes stand in front of a television ",
+        "Two men standing in front of a TV playing with a Wii. "
+      ],
+      "sha256": "f64307edc9a93f08afdc60e21b52c4da24f9ae01d3c6810bfb45643e032a1869",
+      "bytes": 128027
+    },
+    {
+      "image_id": 122354,
+      "file_name": "COCO_val2014_000000122354.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000122354.jpg",
+      "flickr_url": "http://farm8.staticflickr.com/7391/9224129109_f90cbeb807_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 480,
+      "references": [
+        "A no turning sign sits on a residential street",
+        "a view of buildings and cars with traffic signs",
+        "The warning sign is on a busy street near a large, three story building.",
+        "The white  building has a lot of cars at it ",
+        "A sign on a pole on a city street."
+      ],
+      "sha256": "d533e69781dbcbe5b8c30af43cf3ca11a5fdba851c664b67ed04dc35f2ef5a9d",
+      "bytes": 125662
+    },
+    {
+      "image_id": 122747,
+      "file_name": "COCO_val2014_000000122747.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000122747.jpg",
+      "flickr_url": "http://farm9.staticflickr.com/8349/8219458726_0e4c08cff2_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 480,
+      "height": 640,
+      "references": [
+        "A man in a black shirt and orange bow tie.",
+        "A close up photo of a man with an orange bow tie.",
+        "A man wearing an orange bow tie sitting in a living room.",
+        "A man taking a picture of himself wearing an orange bow tie. ",
+        "A man with an orange bow tie sits on a bed."
+      ],
+      "sha256": "054a32aaff66f62986ef4c556435335a5f0a38a89bef4763e8a3020bb280fe58",
+      "bytes": 150518
+    },
+    {
+      "image_id": 128528,
+      "file_name": "COCO_val2014_000000128528.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000128528.jpg",
+      "flickr_url": "http://farm4.staticflickr.com/3637/3323226594_b18b8562ba_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 451,
+      "references": [
+        "A dog wearing a red bag on his shoulder runs in the snow.",
+        "a dog with a pack on his back running through the snow",
+        "A dog wearing a doggy life vest is running through the snow. ",
+        "THERE IS A DOG WITH A PACK ON HIS BACK ",
+        "a dig with a bag on its back runs through the snow"
+      ],
+      "sha256": "9d400fd948b741976242f98af07240e3a37d8c486044c8cdde82854622e844ca",
+      "bytes": 48467
+    },
+    {
+      "image_id": 139660,
+      "file_name": "COCO_val2014_000000139660.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000139660.jpg",
+      "flickr_url": "http://farm5.staticflickr.com/4020/4700170617_948fb83bb0_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 480,
+      "references": [
+        "A painted sign of a blue bird in a tree in the woods.",
+        "A view of a pole with a wooden bird on top of it.",
+        "a wood bird that is up in on some trees",
+        "a man made blue and pink bird and a plaque ",
+        "A picture of a bird above a sign mounted to a tree."
+      ],
+      "sha256": "3606847bffa329232c3716d9821f280189e566fa5baa6b90c40303160d896bbc",
+      "bytes": 288239
+    },
+    {
+      "image_id": 143103,
+      "file_name": "COCO_val2014_000000143103.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000143103.jpg",
+      "flickr_url": "http://farm5.staticflickr.com/4014/4226681547_778f06798d_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 480,
+      "references": [
+        "A little boy riding skis next to an adult riding skis.",
+        "A young person on skis on a ski slope",
+        "A little boy snow skiing with adults on a hill.",
+        "A small child with glasses is on the snow.",
+        "A child in a blue coat skiing on a ski slope."
+      ],
+      "sha256": "b59c9c0f8078597f1f572600c1748b5fdaa600f022d6f3ad55021efcb652a976",
+      "bytes": 129605
+    },
+    {
+      "image_id": 149196,
+      "file_name": "COCO_val2014_000000149196.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000149196.jpg",
+      "flickr_url": "http://farm7.staticflickr.com/6204/6056383210_4611d8edb2_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 478,
+      "references": [
+        "A pile of stuffed animals hanging from the ceiling of a store.",
+        "stuffed animals hanging for the ceiling of something",
+        "An assortment of stuffed toys at a carnival. ",
+        "A carnival atmosphere is effected by these colorful stuffed creatures.",
+        "Stuffed bananas with faces are among the stuffed toys hanging in this outdoor market. "
+      ],
+      "sha256": "fcb5e9c49d462fb630d77d32e4d586184d4cb922430d299b47efed658cbfc771",
+      "bytes": 211180
+    },
+    {
+      "image_id": 152326,
+      "file_name": "COCO_val2014_000000152326.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000152326.jpg",
+      "flickr_url": "http://farm4.staticflickr.com/3681/9285201667_8e42b4d246_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 427,
+      "references": [
+        "A man and woman cutting a cake near a window.",
+        "A just married couple cut into their cake.",
+        "The couple is sharing the job of cutting the cake. ",
+        "A woman and man with glasses cut into a white cake.",
+        "A bride and groom cut a piece of white wedding cake."
+      ],
+      "sha256": "81c67b8a097d2d77e870558b4c3516b99eb8653f1bc0286e9ab214b0de04a243",
+      "bytes": 150545
+    },
+    {
+      "image_id": 154867,
+      "file_name": "COCO_val2014_000000154867.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000154867.jpg",
+      "flickr_url": "http://farm4.staticflickr.com/3125/2703930639_e284ced70a_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 480,
+      "references": [
+        "A sewage lid on the ground with a para sail chute in the background.",
+        "There is a balloon that is flying over the ground",
+        "Parachute over a large valley with a man made structure.",
+        "a ground with a hole covering with a parachute flying in the background",
+        "Some type of metal bracket or anchor in the ground."
+      ],
+      "sha256": "667d60987840dcaa1635726467ca2d0afca30ac8a9e2a544beeb486d04e8ed2a",
+      "bytes": 113250
+    },
+    {
+      "image_id": 155714,
+      "file_name": "COCO_val2014_000000155714.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000155714.jpg",
+      "flickr_url": "http://farm8.staticflickr.com/7202/6932059893_4d40ac2ae4_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 480,
+      "height": 640,
+      "references": [
+        "A pizza with sauce, spinach and cheese on a pan.",
+        "A pizza on an upside down plate on a table.",
+        "A SQUARE PIZZA WITH EXTRA SAUCE ON TOP",
+        "A large type pizza with cheese, spinach, and sauce is on a silver plate.",
+        "a pizza with some extra sauce on the top of it "
+      ],
+      "sha256": "b52910d3f69d88fa89e5047c8fc823736112986f8021c6667d4e9d24b8a6c960",
+      "bytes": 242014
+    },
+    {
+      "image_id": 157184,
+      "file_name": "COCO_val2014_000000157184.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000157184.jpg",
+      "flickr_url": "http://farm7.staticflickr.com/6196/6104135321_bf094cce58_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 425,
+      "height": 640,
+      "references": [
+        "A man holding a giant pair of black scissors.",
+        "A man holding a giant scissors about three feet tall.",
+        "A man holding a large pair of scissors ",
+        "A smiling guy holding up a huge pair of scissors.",
+        "A smiling man is holding a pair of gigantic scissors."
+      ],
+      "sha256": "faff5979e19b32c4582d71721f37826e02ea46a778dd8ac3a4d3e87f197ee097",
+      "bytes": 168593
+    },
+    {
+      "image_id": 159044,
+      "file_name": "COCO_val2014_000000159044.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000159044.jpg",
+      "flickr_url": "http://farm8.staticflickr.com/7272/7693500680_57b46e4156_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 427,
+      "references": [
+        "a surfer wearing a wet suit is surfing on a sunny day",
+        "Surfer enjoys the clear water and the sun ",
+        "A man is surfing and is being knocked over by a wave.",
+        "A surfer riding a wave in the ocean.",
+        "A man riding a wave on a surfboard in the ocean."
+      ],
+      "sha256": "be84088868425d7a7152ff6686b3f643dc2224173d2271be74a7512176b701fa",
+      "bytes": 174803
+    },
+    {
+      "image_id": 163118,
+      "file_name": "COCO_val2014_000000163118.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000163118.jpg",
+      "flickr_url": "http://farm7.staticflickr.com/6034/6295016809_63d19a29c6_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 426,
+      "references": [
+        "two people jumping up to try to catch a frisbee",
+        "Two guys leap for the Frisbee as they play their game in some sort of a gym.",
+        "The two men are jumping to get the frisbee.",
+        "Two young men playing a game of frisbee.",
+        "Two men playing frisbe on an indoor court."
+      ],
+      "sha256": "3567db9db76a5bba0b606d7225fb49e6d92089eb5cdb8cc30f39aa2a7314c1de",
+      "bytes": 120324
+    },
+    {
+      "image_id": 173385,
+      "file_name": "COCO_val2014_000000173385.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000173385.jpg",
+      "flickr_url": "http://farm6.staticflickr.com/5240/5893148149_9627c74789_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 427,
+      "references": [
+        "An elephant is walking on a pile of sand outside a building.",
+        "An elephant is by a tire and a pile of dirt.",
+        "An elephant stands in an exhibit near a wall with some rocks and a tire nearby.",
+        "an elephant holding straw with its trunk and walking in a dirt field.",
+        "An elephant in captivity walks past a mound of sand."
+      ],
+      "sha256": "d8c0fd9f51c990b336caac9fec1d48870375ecae9aea7694fccd422db6246dc2",
+      "bytes": 160539
+    },
+    {
+      "image_id": 182784,
+      "file_name": "COCO_val2014_000000182784.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000182784.jpg",
+      "flickr_url": "http://farm1.staticflickr.com/107/289037878_7f4b1272e9_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 480,
+      "references": [
+        "The animal is standing by the booth at the event.",
+        "A brown cow standing next to a store with lots of water.",
+        "A cow is standing in front of a shop.",
+        "A bull standing in front of a street vendor .",
+        "a brown and white ox a motorcycle and a shop"
+      ],
+      "sha256": "b51688c319649b030ed5e31e3bfa464834e86a1b5e1d46d06f57b677be76fba0",
+      "bytes": 169369
+    },
+    {
+      "image_id": 184400,
+      "file_name": "COCO_val2014_000000184400.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000184400.jpg",
+      "flickr_url": "http://farm8.staticflickr.com/7353/9326233603_e2ef80a292_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 480,
+      "references": [
+        "A train as it travels down the tracks over a bridge.",
+        "a colorful train going along an elevated track ",
+        "A train rides on a bridge past a building.",
+        "A subway train that is passing over a train bridge.",
+        "a train on a train track on an elevated bridge"
+      ],
+      "sha256": "9b81bd50fee18dfe4f1b1aa804c28f0492bd65d4c1f1c43b7497b8a82e0eb2b1",
+      "bytes": 130112
+    },
+    {
+      "image_id": 184902,
+      "file_name": "COCO_val2014_000000184902.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000184902.jpg",
+      "flickr_url": "http://farm4.staticflickr.com/3475/3312907845_b4256c3d32_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 427,
+      "references": [
+        "A living room with fireplace, television, and couches.",
+        "A living room area with couches, fireplace and yellow painted walls.",
+        "a room with a place to light a fire",
+        "A living room filled with furniture and a fire place.",
+        "A den with a fire place, couch, and a television."
+      ],
+      "sha256": "1ad8f0516cceebbc910e957aba6ae07804a77e5ed3a3c9eacb98b048174884d1",
+      "bytes": 91417
+    },
+    {
+      "image_id": 186282,
+      "file_name": "COCO_val2014_000000186282.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000186282.jpg",
+      "flickr_url": "http://farm3.staticflickr.com/2492/5812924771_1ec43e7a40_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 427,
+      "references": [
+        "A flat screen monitor shows a brightly colored image on the screen.",
+        "A desktop computer monitor sitting on top of a desk next to a mouse.",
+        "Computer setup with a multiple colored screen on it. ",
+        "An Apple computer monitor sits on a desk.",
+        "A computer screen has many colors, with a mouse and speakers next to it on the table."
+      ],
+      "sha256": "73c0456e323cfed4d729360302c86b5a4cefca1257e2ae9e30a04deda0b35e14",
+      "bytes": 132892
+    },
+    {
+      "image_id": 188718,
+      "file_name": "COCO_val2014_000000188718.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000188718.jpg",
+      "flickr_url": "http://farm6.staticflickr.com/5236/5880160737_88cf9b1f83_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 448,
+      "references": [
+        "two zebras on some dirt and one is eating",
+        "A couple of zebra standing on top of a dry grass field.",
+        "Two zebras walking around and feeding on the grass.",
+        "Two zebras on grassy area next to small pond of water.",
+        "pair of zebras grazing in a desert setting."
+      ],
+      "sha256": "987c0aa1399c344c8aed85230d90497cd449958b24d288e58aa75b3bd15d828d",
+      "bytes": 328379
+    },
+    {
+      "image_id": 199257,
+      "file_name": "COCO_val2014_000000199257.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000199257.jpg",
+      "flickr_url": "http://farm3.staticflickr.com/2255/2675058529_4ea971faa8_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 375,
+      "height": 500,
+      "references": [
+        "a green sign on a pole with a street light",
+        "Street signage directs traffic moving right along Broadway.  ",
+        "a pole that has a sign on it",
+        "A street with a stoplight on the yellow light. ",
+        "A picture of a traffic sign that says no turn on red arrow."
+      ],
+      "sha256": "36af037d58334249e74c002661a8ed68e78564108e5db3cc37e67f67ee372868",
+      "bytes": 194704
+    },
+    {
+      "image_id": 202102,
+      "file_name": "COCO_val2014_000000202102.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000202102.jpg",
+      "flickr_url": "http://farm9.staticflickr.com/8165/7354046290_786f9733aa_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 387,
+      "references": [
+        "A person resting their head on a pillow next to an airplane window.",
+        "A woman sleeping on a plane with a window view of the wing.",
+        "The woman lies her head on a pillow while looking out of the airplane window.",
+        "A woman lays against a pillow while flying on a plane.",
+        "A woman inside an airplane lying her head on a pillow near the window. "
+      ],
+      "sha256": "9b93e9c5945f2db27cfdb12d61dff90915be22da256bbad3b9a8108948952cd8",
+      "bytes": 73704
+    },
+    {
+      "image_id": 229529,
+      "file_name": "COCO_val2014_000000229529.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000229529.jpg",
+      "flickr_url": "http://farm8.staticflickr.com/7189/6881664165_fff75b3462_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 359,
+      "references": [
+        "a guy laying on his surf board waiting for the wave",
+        "A surfer riding a surfboard through cresting ocean waves.",
+        "a person on a surf board in the ocean",
+        "Surfer riding on top of wave of water in ocean",
+        "A man riding a surfboard on a wave in the ocean."
+      ],
+      "sha256": "a0b79fbb49cbc0e59363f6ea98a66ff7ffdbca80dc75b7811ca2a3860a967e52",
+      "bytes": 122916
+    },
+    {
+      "image_id": 231991,
+      "file_name": "COCO_val2014_000000231991.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000231991.jpg",
+      "flickr_url": "http://farm2.staticflickr.com/1134/557280905_6979335c8c_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 500,
+      "height": 375,
+      "references": [
+        "A young man using his laptop at a desk",
+        "A man siting at a desk using a laptop computer.",
+        "Guy sitting at desk working on his laptop.",
+        "Man sitting at a computer desk holding a microphone to his mouth. ",
+        "A man sits at a desk looking at a laptop."
+      ],
+      "sha256": "d55d23f29d2310869c092446bc56c56be6caa78ba4806f77b1e380a4bcdabd21",
+      "bytes": 112596
+    },
+    {
+      "image_id": 233079,
+      "file_name": "COCO_val2014_000000233079.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000233079.jpg",
+      "flickr_url": "http://farm9.staticflickr.com/8332/8112911569_28376a76e2_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 340,
+      "references": [
+        "A plane sits outside a room full of chairs. ",
+        "An airport waiting room with the nose of a plane at the window",
+        "Airport waiting room with large jet parked outside the window.",
+        "A waiting area in an airport terminal ",
+        "An airport waiting room with the nose of a plane visible through the window."
+      ],
+      "sha256": "6c60237b20066706685e304e5778d9fa7948f9c63fd038630f4dba56814b1f72",
+      "bytes": 148708
+    },
+    {
+      "image_id": 236049,
+      "file_name": "COCO_val2014_000000236049.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000236049.jpg",
+      "flickr_url": "http://farm5.staticflickr.com/4152/5203540136_e58abea17b_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 640,
+      "references": [
+        "A building with a large circular window that has a designed iron bar cover on it and a pigeon flying from it.",
+        "A large circular window with a decorative iron barrier.",
+        "A bird flying out of an attic window of a building.",
+        "A pigeon flies out of a barred exit on a brick building.",
+        "Wrought iron bars over a round window in a stone building face."
+      ],
+      "sha256": "1505c96cad443fa2b72308f07c164981d0370e9705b7ed70e9ec23ee376df4da",
+      "bytes": 307633
+    },
+    {
+      "image_id": 237814,
+      "file_name": "COCO_val2014_000000237814.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000237814.jpg",
+      "flickr_url": "http://farm7.staticflickr.com/6191/6057135106_17e343d4e5_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 426,
+      "references": [
+        "A baseball batter up to plate about to hit the ball.",
+        "A baseball player swinging a bat at a ball",
+        "a baseball player swinging a bat at a ball",
+        "A baseball player swinging a baseball bat at a baseball.",
+        "A baseball game with a left handed batter swinging at a pitch and the catcher and umpire behind him."
+      ],
+      "sha256": "235f608bf69f09fd599c824bf1d4cb9254bcb7882d1b8302e2535b8e49431aad",
+      "bytes": 193187
+    },
+    {
+      "image_id": 242365,
+      "file_name": "COCO_val2014_000000242365.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000242365.jpg",
+      "flickr_url": "http://farm8.staticflickr.com/7257/7736448130_8d379624c7_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 427,
+      "height": 640,
+      "references": [
+        "a woman is standing at a sink in a kitchen",
+        "Asian woman washing all of her dirty dishes.",
+        "A woman washing a pot in a small kitchen.",
+        "A very cute lady working in a very small kitchen.",
+        "A woman is standing in the kitchen cooking a meal. "
+      ],
+      "sha256": "7835640bfab533d361dbd03ae6240a6e8144cea02eb7ea417995cbb13296302e",
+      "bytes": 164297
+    },
+    {
+      "image_id": 244215,
+      "file_name": "COCO_val2014_000000244215.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000244215.jpg",
+      "flickr_url": "http://farm6.staticflickr.com/5216/5469036230_f0b7a16d97_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 478,
+      "references": [
+        "A couple of dogs sitting in front of a metal structure.",
+        "Two fake dogs sit in front of a building. ",
+        "statues of two dogs sitting in front of a building ",
+        "A couple of dog statues next to some pallets and fire extinguishers.",
+        "There are two fake dogs outside a warehouse."
+      ],
+      "sha256": "a948f98bb3c22bb2090eb66bad105b6ebdefc39b167555a0a96d27721f626aa2",
+      "bytes": 188755
+    },
+    {
+      "image_id": 249643,
+      "file_name": "COCO_val2014_000000249643.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000249643.jpg",
+      "flickr_url": "http://farm8.staticflickr.com/7360/9167356387_9e47583e84_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 461,
+      "references": [
+        "A train traveling down train tracks near a train station.",
+        "A train running along a track near a station.",
+        "A train that is riding on tracks through a station.",
+        "A passenger train that is pulling into a station.",
+        "A train on its tracks with a Mannheim sign on the front."
+      ],
+      "sha256": "99ec37c419f10dc2876c335bd601887d1f73e8dd67b07564b107e13a6833ffd6",
+      "bytes": 247470
+    },
+    {
+      "image_id": 255631,
+      "file_name": "COCO_val2014_000000255631.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000255631.jpg",
+      "flickr_url": "http://farm9.staticflickr.com/8152/7413063574_72e2f94a33_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 366,
+      "references": [
+        "a couple of beds  that are in one room",
+        "A bedroom with twin beds and matching linen.",
+        "Room with two twin beds made up same way against wall with bedside table to right of each, a table lamp, and a sliding glass door with curtains to one side.",
+        "Two beds with embroidery in a well lit room.",
+        "Two beds are neatly made inside of a bedroom"
+      ],
+      "sha256": "cc19556eed1edd058303de61df5744575ecd5d12da9d849f4197bba4367ecf73",
+      "bytes": 146759
+    },
+    {
+      "image_id": 256180,
+      "file_name": "COCO_val2014_000000256180.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000256180.jpg",
+      "flickr_url": "http://farm3.staticflickr.com/2569/3665122071_3491067d66_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 480,
+      "references": [
+        "A large flat screen television with entertainment center.",
+        "A television that is on a entertainment stand.",
+        "A living room is furnished with a television and bookcase.",
+        "A living room is shown with a crowded bookshelf.",
+        "a wide screen tv a small table with fruit on it and shelves with nick knacks "
+      ],
+      "sha256": "12e691f569e6a2e9241aa28a7447ced5fd1e58560ef867b0d93bfd6b98784052",
+      "bytes": 94195
+    },
+    {
+      "image_id": 256250,
+      "file_name": "COCO_val2014_000000256250.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000256250.jpg",
+      "flickr_url": "http://farm8.staticflickr.com/7113/7522639500_d3529717b4_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 482,
+      "references": [
+        "two giraffes in a field next to some standing water",
+        "The giraffe is a truly majestic tall animal. ",
+        "A couple of giraffe standing on top of a sandy beach.",
+        "Two giraffes stand in an open area with water and other animals in background.",
+        "Two giraffes that are standing in the grass."
+      ],
+      "sha256": "50992e7f512145fe238d7c1122abfea902cd719891b18a5f64b9e4d7b3747b3f",
+      "bytes": 167697
+    },
+    {
+      "image_id": 285645,
+      "file_name": "COCO_val2014_000000285645.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000285645.jpg",
+      "flickr_url": "http://farm6.staticflickr.com/5098/5582374091_2e18c1425a_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 426,
+      "references": [
+        "A man wearing skis and holding a handle leans toward a sandy plain.",
+        "A skiier is leaning over to the side, holding into a set of tensioned cables",
+        "a person skiing while holding onto some wires ",
+        "A snow skier is falling down is holding onto a suspension cable. ",
+        "a person riding skis holding on to a parachute"
+      ],
+      "sha256": "840e49e2d8526f291bebdf6a03f3698f5e62eb01c8fc074d14e5f4666961704f",
+      "bytes": 147893
+    },
+    {
+      "image_id": 288491,
+      "file_name": "COCO_val2014_000000288491.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000288491.jpg",
+      "flickr_url": "http://farm3.staticflickr.com/2872/8787454119_2db0431ab8_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 427,
+      "references": [
+        "a man on a surf board rides the waves ",
+        "A man surfing in a breakwater area with other surfers watching.",
+        "A man is riding a surfboard on some wild waves.",
+        "A man is in the water and riding a surfboard.",
+        "Surfers are standing on the shore as a man is surfing through a wave. "
+      ],
+      "sha256": "e415902ce563b86980b3069d957e60b56e11e5cf6eef92421a241b8fc06b9c13",
+      "bytes": 180254
+    },
+    {
+      "image_id": 302767,
+      "file_name": "COCO_val2014_000000302767.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000302767.jpg",
+      "flickr_url": "http://farm4.staticflickr.com/3352/3439273805_0855e9f9b2_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 480,
+      "references": [
+        "A man standing on a board in a body of water.",
+        "A young man wakeboarding holding the rope one-handed",
+        "A boy on skies in the water holding a fishing pole ",
+        "A man standing on a surf being pulled by a boat",
+        "A person on a surfboard on the water."
+      ],
+      "sha256": "8ebd6bbe9e283ad3e9fa174245087b5f95c0e8e4424aa774bd364336fb4c65b3",
+      "bytes": 171197
+    },
+    {
+      "image_id": 312192,
+      "file_name": "COCO_val2014_000000312192.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000312192.jpg",
+      "flickr_url": "http://farm4.staticflickr.com/3350/3506835310_1e61679920_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 480,
+      "references": [
+        "A plate filled with food sitting on a table next to a drink.",
+        "A plate with pizza, lettuce and ham sit on a plate white we see hands holding silverware and a bottle of wine with glasses.",
+        "A pizza with lots of greens and meat is sitting on the table.",
+        "A white plate of food on a table.",
+        "A table with a plate that has a pizza on it along with fresh vegetable and meat toppings."
+      ],
+      "sha256": "1e698a3dcde04f64793eacefeb9802710182f0ae918db480983049e8235d2cf9",
+      "bytes": 165630
+    },
+    {
+      "image_id": 315501,
+      "file_name": "COCO_val2014_000000315501.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000315501.jpg",
+      "flickr_url": "http://farm3.staticflickr.com/2570/3904131289_609c4a2551_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 500,
+      "height": 333,
+      "references": [
+        "There is a classic, black automobile sitting in a showroom. There are people looking at it in the background. ",
+        "A restored Woodie brings back old beach memories.",
+        "An old station wagon is shown in a car show.",
+        "Antique car sitting with other old cars in a museum. ",
+        "Old fashioned, restored, old fashioned black vehicle in a garage"
+      ],
+      "sha256": "ba19ab3dcb6182a6223c25168f44236ca397ecd6cc53a9f7ed67d572eb78e2d3",
+      "bytes": 147907
+    },
+    {
+      "image_id": 318099,
+      "file_name": "COCO_val2014_000000318099.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000318099.jpg",
+      "flickr_url": "http://farm4.staticflickr.com/3310/3623460770_f52c92178f_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 480,
+      "references": [
+        "A nest filled with baby birds crying for their mother.",
+        "A nest full of hatch-lings mouths open waiting to be fed",
+        "There are baby birds in a birds nest",
+        "Baby birds in a nest ready for their dinner",
+        "Baby birds in nest looking up with mouths open."
+      ],
+      "sha256": "747f8d073d2aa1ad51e220844c71eaf4b4d87768d41127255d9896d9e9697f4b",
+      "bytes": 147345
+    },
+    {
+      "image_id": 348730,
+      "file_name": "COCO_val2014_000000348730.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000348730.jpg",
+      "flickr_url": "http://farm4.staticflickr.com/3334/3663878848_7e849e90a6_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 480,
+      "references": [
+        "A man who is riding a skateboard down the street.",
+        "A boy riding on a skateboard in the street.",
+        "A person on a skate board riding the down the street.",
+        "A boy rides a skateboard down an empty street.",
+        "A boy with a skateboard is riding down a residential street."
+      ],
+      "sha256": "a5b53ef7a10fc72f41a91aa9fd19814af58f162b6c2b1eac078df48eb909e45a",
+      "bytes": 107206
+    },
+    {
+      "image_id": 370819,
+      "file_name": "COCO_val2014_000000370819.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000370819.jpg",
+      "flickr_url": "http://farm1.staticflickr.com/152/383936640_34aa57cae8_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 500,
+      "height": 333,
+      "references": [
+        "A large potted plant sitting next to three bottles of wine.",
+        "Three bottles of wine are situated beneath the leaves.",
+        "A few bottles of wine next to a faucet in the wall",
+        "Three bottles of wine are stored next to a flower pot.",
+        "Three bottles of beer next to a potted plant."
+      ],
+      "sha256": "44e580b8018ba55440c6f04ae4aeb38884b9f72508e7a4bf9b3eaffed91c4ff3",
+      "bytes": 164565
+    },
+    {
+      "image_id": 374083,
+      "file_name": "COCO_val2014_000000374083.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000374083.jpg",
+      "flickr_url": "http://farm3.staticflickr.com/2882/9264083800_fc3b02577d_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 426,
+      "height": 640,
+      "references": [
+        "A man and a girl standing next to two cakes in the kitchen. ",
+        "A man and a young girl choosing between two cakes.",
+        "A man and little girl in front of a cake.",
+        "A man and little girl are in a kitchen looking at cakes.",
+        "A man and a child in the kitchen with two cakes."
+      ],
+      "sha256": "e791cc62e1429d7ba4f3a2b882165e8ca025162491aa4fdaec2d7fbf968af67c",
+      "bytes": 152131
+    },
+    {
+      "image_id": 378545,
+      "file_name": "COCO_val2014_000000378545.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000378545.jpg",
+      "flickr_url": "http://farm5.staticflickr.com/4119/4776737185_6cf722c623_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 480,
+      "height": 640,
+      "references": [
+        "A pole that has a clock on top of it.",
+        "A clock mounted on an outdoor post with Roman numerals.",
+        "a clock on a pole saying it is 12:45",
+        "An ornamental standing clock is at the foreground of a row of houses.  ",
+        "A black and gold clock on a pole in front of a building."
+      ],
+      "sha256": "0eb3318e485d872ff4e5369d9ad04a648ca350234f6b6c28f8e292881a0cf4e4",
+      "bytes": 186518
+    },
+    {
+      "image_id": 381123,
+      "file_name": "COCO_val2014_000000381123.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000381123.jpg",
+      "flickr_url": "http://farm9.staticflickr.com/8442/7867883870_8921402af4_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 480,
+      "references": [
+        "A group of small colorful boats sitting on a beach next to the ocean.",
+        "A couple of small boats parked on the beach.",
+        "A beach has kayaks lined up on it.",
+        "A bunch of boats on a sandy beach",
+        "A rainbow of kayaks arrayed on the sand flats at the water's edge."
+      ],
+      "sha256": "5ce43ce49336f54ae046993cfb3bad310e48df323b5cbeb3a9949d44780e7286",
+      "bytes": 171897
+    },
+    {
+      "image_id": 390759,
+      "file_name": "COCO_val2014_000000390759.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000390759.jpg",
+      "flickr_url": "http://farm6.staticflickr.com/5170/5378114980_49b1f1185e_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 412,
+      "references": [
+        "A group of three cows eating food while standing behind bars.",
+        "The cows are lined up and stretching for their food.",
+        "Three cows are eating food inside a building.",
+        "Three cows eat some hay through a metal cage.",
+        "some white and brown cows are eating "
+      ],
+      "sha256": "b64cc125586507e6951fa4423f9122f4d6be8f9d6f0eeeead577a3fa199d7e6a",
+      "bytes": 232225
+    },
+    {
+      "image_id": 401862,
+      "file_name": "COCO_val2014_000000401862.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000401862.jpg",
+      "flickr_url": "http://farm9.staticflickr.com/8540/8698627837_6d1fb59ce4_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 480,
+      "references": [
+        "PEOPLE WAITING IN LINE TO GET FOOD FROM A FOOD TRUCK",
+        "People line up to buy food from a food truck.",
+        "people standing in line beside a food truck",
+        "People are lined up by a red food truck.",
+        "a line of food trucks and a group of people stand by"
+      ],
+      "sha256": "82e64d65eb79042a20684d83a09c4aa90b98dd4616eab25c8bb1d40d45fa4cef",
+      "bytes": 244329
+    },
+    {
+      "image_id": 406377,
+      "file_name": "COCO_val2014_000000406377.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000406377.jpg",
+      "flickr_url": "http://farm9.staticflickr.com/8265/8688581347_f6a10419c0_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 427,
+      "references": [
+        "A train trailing a plume of white smoke crosses a bridge.",
+        "A green and red train traveling on an elevated train track above a bridge.",
+        "A red and green train traveling on an elevated train strack.",
+        "A train traveling across a bridge with steam pouring out of it.",
+        "Steam billowing from the engine of a railway train."
+      ],
+      "sha256": "501ab82f6852e0ef201b8a3edf33154f0ba5f40bbfb6dfb604222d32844860a9",
+      "bytes": 219057
+    },
+    {
+      "image_id": 406976,
+      "file_name": "COCO_val2014_000000406976.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000406976.jpg",
+      "flickr_url": "http://farm3.staticflickr.com/2157/2223265904_d0e6a52f87_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 500,
+      "height": 400,
+      "references": [
+        "Two dogs lay next to each other on a brown couch.",
+        "Two large dogs sleeping on a large couch.  ",
+        "Two dogs are laying on a couch ",
+        "Two dogs sit on top of a couch. ",
+        "A close up of two dogs sleeping on a couch."
+      ],
+      "sha256": "93eff200dab1e84ac4a5e9ddea7ecc46f7ce2a9bec3d0b830d981e0c4c806657",
+      "bytes": 208309
+    },
+    {
+      "image_id": 420579,
+      "file_name": "COCO_val2014_000000420579.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000420579.jpg",
+      "flickr_url": "http://farm5.staticflickr.com/4066/4308360588_475a095dea_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 480,
+      "references": [
+        "A person standing next to skis in the snow.",
+        "A man standing in the snow next to a pair of skis.",
+        "A man with blue shirt standing next to skis in snowy forest.",
+        "A guy walking in the snow next to some skis.",
+        "A man is getting ready to put on skis"
+      ],
+      "sha256": "c495aeb53af610bef91ff55d9c4daf9d2b27b627a8459588c749910fe58a2fcc",
+      "bytes": 128290
+    },
+    {
+      "image_id": 421979,
+      "file_name": "COCO_val2014_000000421979.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000421979.jpg",
+      "flickr_url": "http://farm1.staticflickr.com/235/457496335_5aa401c719_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 480,
+      "height": 640,
+      "references": [
+        "A flower is on an object that is lit. ",
+        "A floral arrangement has twigs and orange and red petals and lights on a table.",
+        "A somewhat surreal art display made of plants.",
+        "a very unusual night time display on a table",
+        "A vase of flowers on a dining table."
+      ],
+      "sha256": "5b59447af42e0be876a2a85270ac5aa50f72bc8982f56f564aa29f2c2af51c03",
+      "bytes": 161296
+    },
+    {
+      "image_id": 425100,
+      "file_name": "COCO_val2014_000000425100.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000425100.jpg",
+      "flickr_url": "http://farm4.staticflickr.com/3277/2582891691_be8d3a0215_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 427,
+      "references": [
+        "A group of men standing on top of a grass covered field.",
+        "a man in a red shirt getting ready to throw a frisbee ",
+        "Four people playing frisbee on a soccer field.",
+        "a group of boys running on a grassy field playing freesby",
+        "Some guys playing frisbee on a soccer field."
+      ],
+      "sha256": "dacdc0ea90c37af7d98d53581c3ec90d38e752cd07cd3bb4d3a91c765f98f357",
+      "bytes": 175999
+    },
+    {
+      "image_id": 435922,
+      "file_name": "COCO_val2014_000000435922.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000435922.jpg",
+      "flickr_url": "http://farm5.staticflickr.com/4036/4340090772_db5b3e67f4_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 480,
+      "references": [
+        "Cat sitting next to remote control on small counter.",
+        "A cat sitting next to a wii remote and keys. ",
+        "A gray colored cat is staring at the camera.",
+        "A cat sitting on a table looking straight ahead",
+        "A cat sitting on top of a desk next to a controller."
+      ],
+      "sha256": "22bdceb82faa1c44463c1637604d8665d45122b15317197958569f57d3567120",
+      "bytes": 83735
+    },
+    {
+      "image_id": 439774,
+      "file_name": "COCO_val2014_000000439774.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000439774.jpg",
+      "flickr_url": "http://farm8.staticflickr.com/7029/6583803633_1480e9d9e7_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 427,
+      "references": [
+        "A man and two girls sitting on a couch with a dog.",
+        "Dad sitting on a coach with his two daughters and a dog.",
+        "Some kids are relaxing with their dad on a coach",
+        "A group of people that are sitting on the couch.",
+        "a man two girls and a brown and black dog "
+      ],
+      "sha256": "44c1d4af6a76586ee4fdd95d1fb8b1b662f292d9da44de173fd80d5140923e04",
+      "bytes": 236291
+    },
+    {
+      "image_id": 448626,
+      "file_name": "COCO_val2014_000000448626.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000448626.jpg",
+      "flickr_url": "http://farm9.staticflickr.com/8355/8314994966_6447a63ba6_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 428,
+      "references": [
+        "Two white vans of some sort parked near a mountain.",
+        "A couple of buses parked in a open lot.",
+        "A couple of buses parked next to each other.",
+        "The two white vans are the only vehicles in the parking lot.",
+        "Two white vans in parking lot with clouds and mountain in background."
+      ],
+      "sha256": "572f3264c73ed032d55427cffb8fb9c089f913cbd29418bc49b0a767b035eedb",
+      "bytes": 138678
+    },
+    {
+      "image_id": 449403,
+      "file_name": "COCO_val2014_000000449403.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000449403.jpg",
+      "flickr_url": "http://farm9.staticflickr.com/8479/8194584889_996bb3af5d_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 480,
+      "references": [
+        "A city bus moving along a road with many trees.",
+        "A double decker bus driving down a street.",
+        "a tourist bus parked on the side of a road under a pole ",
+        "A big bus traveling down the street with other vehicles",
+        "A person with an umbrella walks by a double decker bus."
+      ],
+      "sha256": "442b82c6b4a899f788bd2c3c69ccd1ac15cf020829d982d80b385da4d080dceb",
+      "bytes": 263000
+    },
+    {
+      "image_id": 451972,
+      "file_name": "COCO_val2014_000000451972.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000451972.jpg",
+      "flickr_url": "http://farm8.staticflickr.com/7015/6472091633_e6c08829c7_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 458,
+      "references": [
+        "A red fire truck with a bunch of Christmas decorations on back of it.",
+        "Fire truck full of Christmas decorations in a night time holiday parade.",
+        "A fire truck decorated in a Christmas display featuring santa and children on top.",
+        "there is a fire truck with christmas decorations on the top",
+        "A fire engine truck on the road with kids and teddy bears"
+      ],
+      "sha256": "5016c6c3ce6fc9b7b006db82eb880dcdad68eed2fafffd2becd824eb87a2aa6b",
+      "bytes": 306138
+    },
+    {
+      "image_id": 452113,
+      "file_name": "COCO_val2014_000000452113.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000452113.jpg",
+      "flickr_url": "http://farm8.staticflickr.com/7263/7775101542_9e8125cb3b_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 427,
+      "references": [
+        "A group of people posing with half a dozen large cupcakes",
+        "a group of people standing by some cupcakes",
+        "A counter of cakes surrounded by a group of people.",
+        "a group of people standing around a desk ",
+        "Men, women, and children are celebrating a joyous event"
+      ],
+      "sha256": "17fd2d97aae268736f5ce51287058065c5038e0c971bebf54cc38fadff7c99ba",
+      "bytes": 140961
+    },
+    {
+      "image_id": 469192,
+      "file_name": "COCO_val2014_000000469192.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000469192.jpg",
+      "flickr_url": "http://farm9.staticflickr.com/8016/7671708924_54b6fd2c48_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 480,
+      "references": [
+        "A car is parked on dry grass with kites overhead.",
+        "A truck driving through a field with people flying kites.",
+        "An open field with a truck and some kites being flown",
+        "A pickup truck is parked underneath multiple flying kites.",
+        "A truck sitting on a field with kites in the air."
+      ],
+      "sha256": "9f495ad3d8a4c1cf7ee9406c9d05b6337a58b45fd99a4b4fbace131f222182b0",
+      "bytes": 182050
+    },
+    {
+      "image_id": 479030,
+      "file_name": "COCO_val2014_000000479030.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000479030.jpg",
+      "flickr_url": "http://farm9.staticflickr.com/8400/8645262251_a715881431_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 424,
+      "references": [
+        "A large long train on a steel track.",
+        "A red and white train passing by a street.",
+        "A red train going down the track in the city.",
+        "A long red and white train travels near many other tracks.",
+        "Red and white commuter train riding down tracks next to the highway. "
+      ],
+      "sha256": "ab3b564a89cc86c243513bced8113095c4759350d0c5bb62612616e01f91350d",
+      "bytes": 272156
+    },
+    {
+      "image_id": 484434,
+      "file_name": "COCO_val2014_000000484434.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000484434.jpg",
+      "flickr_url": "http://farm7.staticflickr.com/6147/5947344447_6d39f7004d_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 324,
+      "references": [
+        "many people standing together holding open umbrellas ",
+        "A group of people who are holding umbrellas are watching a musician.",
+        "A crowd of people standing around a large blue state.",
+        "A crowd at an out door concert holding up umbrellas.",
+        "There is a crowd of people holding umbrellas"
+      ],
+      "sha256": "01e354bcb6d27e823ba225fd56cb2aa9c6d6bdb3f791031d35edc8a8bfc88814",
+      "bytes": 190409
+    },
+    {
+      "image_id": 494578,
+      "file_name": "COCO_val2014_000000494578.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000494578.jpg",
+      "flickr_url": "http://farm8.staticflickr.com/7422/9333439943_e120de48de_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 429,
+      "references": [
+        "Wood post lined up in the water with birds perched on them. ",
+        "Do these birds create a pattern by sitting in line on the posts?",
+        "a bunch of birds that are standing on some wood",
+        "Birds sit on wooden posts looking over the lake.",
+        "a row of birds perched on wooden posts in a lake"
+      ],
+      "sha256": "9da0c6e1b8af40214779070df9c20f5760cf1381ae2466b9facfc17f4b9ac9da",
+      "bytes": 210459
+    },
+    {
+      "image_id": 506489,
+      "file_name": "COCO_val2014_000000506489.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000506489.jpg",
+      "flickr_url": "http://farm7.staticflickr.com/6222/6282944031_96d8e2566b_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 419,
+      "references": [
+        "A woman walking across a street at a cross walk.",
+        "A woman on a street running next to traffic lights",
+        "a person jumping over a curb at a corner in front of a liquor store",
+        "a photograph of an old school looking liqour ",
+        "a street light some buildings some people and cars"
+      ],
+      "sha256": "9d87715b8b975dea8a3657d829410ee608ae23f9ee1a044d53f2bd22229ba324",
+      "bytes": 169994
+    },
+    {
+      "image_id": 513611,
+      "file_name": "COCO_val2014_000000513611.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000513611.jpg",
+      "flickr_url": "http://farm3.staticflickr.com/2603/4003779080_2c07429d1c_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 480,
+      "references": [
+        "Small herd of grazing cattle in field of farm land.",
+        "A field of cows grazing on grass around trees.",
+        "A heard of cattle graze in a pasture under a lone tree.",
+        "A bunch of cows standing around in a field, grazing on grass.",
+        "A pastoral area has trees, overgrown vegetation, and a line of barrels in its furthest part, while beyond the barrel line, in the foreground, sits an area of short grass that is being grazed by several knots of cows. "
+      ],
+      "sha256": "c89a9c3e731d7fcdd1f208a0f2b9927a8249da5b02deff9fc5e7489028a47e50",
+      "bytes": 176206
+    },
+    {
+      "image_id": 515540,
+      "file_name": "COCO_val2014_000000515540.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000515540.jpg",
+      "flickr_url": "http://farm6.staticflickr.com/5034/5914339891_ca2448b3e6_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 427,
+      "references": [
+        "A group of young men riding skateboards holding a sports drink.",
+        "Young men playing on skateboards with a crowd watching.",
+        "Several men on skateboards skating in a skate park.",
+        "Multiple people on skateboards in an urban setting.",
+        "Two men in a skate back and one is hold a vietinm water."
+      ],
+      "sha256": "9140acaff9256318f0c77e0a76ba436b968f732eecce0a3aa76509f0744f5923",
+      "bytes": 224767
+    },
+    {
+      "image_id": 520871,
+      "file_name": "COCO_val2014_000000520871.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000520871.jpg",
+      "flickr_url": "http://farm3.staticflickr.com/2548/3711888643_b930d29ec8_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 425,
+      "references": [
+        "A pizza with burned edges is sitting on the table.",
+        "there is a large pizza pie on a white plate",
+        "A pizza on a plate on a table with wine.",
+        "a pizza sitting on a plate next to a little jar on a table ",
+        "A pizza is topped with fine cheese and backed in a oven"
+      ],
+      "sha256": "0217449170fd69f767bf97b95ff76ad5b5151204916d94151d9539aa829099be",
+      "bytes": 85189
+    },
+    {
+      "image_id": 528984,
+      "file_name": "COCO_val2014_000000528984.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000528984.jpg",
+      "flickr_url": "http://farm3.staticflickr.com/2761/4210041294_fa86023965_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 480,
+      "references": [
+        "A group of people skiing down a ski slope.",
+        "Group of people gathering to ski and snowboard on side of mountain.",
+        "View of the bottom a ski mountain with many skiers.",
+        "People standing at the bottom of a ski slope while others ski down in the snow.",
+        "Various people on the snow covered hill in skiing wear."
+      ],
+      "sha256": "f819857587c845f5d8c07c594b33484ed69d9697256131ab22978c9479c09a84",
+      "bytes": 62774
+    },
+    {
+      "image_id": 532580,
+      "file_name": "COCO_val2014_000000532580.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000532580.jpg",
+      "flickr_url": "http://farm9.staticflickr.com/8124/9007476707_c7cafdcb8c_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 427,
+      "references": [
+        "a train on a train track with trees in the background",
+        "Electronic lights show caution as a train travels forward.",
+        "A train running down a railroad track towards a stop.",
+        "A train is approaching on the tracks during the day.",
+        "A black train approaching a train station stop."
+      ],
+      "sha256": "488de7435a8ca446fddaa32985b11546f087ed5edc23df470a4827bed94599fd",
+      "bytes": 211784
+    },
+    {
+      "image_id": 538976,
+      "file_name": "COCO_val2014_000000538976.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000538976.jpg",
+      "flickr_url": "http://farm7.staticflickr.com/6026/6009885928_93a4646401_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 480,
+      "height": 640,
+      "references": [
+        "An eagle is posted on a thin rail.",
+        "A large bird perched outside someones glass door",
+        "A large bird hanging outside of a window with an open curtain.",
+        "A hawk sitting on a railing outside of a window.",
+        "There is a brown bird sitting outside of a glass door."
+      ],
+      "sha256": "df831180559dfb63f58be1793f9b0804edf127e13f9cf6eb0e7856456cfa5c4b",
+      "bytes": 125841
+    },
+    {
+      "image_id": 540860,
+      "file_name": "COCO_val2014_000000540860.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000540860.jpg",
+      "flickr_url": "http://farm5.staticflickr.com/4086/4949875569_24e91bf7df_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 480,
+      "references": [
+        "A green car on display next to a busy street.",
+        "A sculpture of a green hot rod on a city sidewalk",
+        "A sculpture of a hot rod sitting on a sidewalk.",
+        "This is a city art piece of a small car.",
+        "A small green vehicle model is on display next to a busy city street."
+      ],
+      "sha256": "a0668848ae3afa1b5def02592723e2f076b64c893012edb5e19c8c101aae87e1",
+      "bytes": 225957
+    },
+    {
+      "image_id": 541587,
+      "file_name": "COCO_val2014_000000541587.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000541587.jpg",
+      "flickr_url": "http://farm4.staticflickr.com/3593/3426539726_dde70b814a_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 425,
+      "height": 640,
+      "references": [
+        "a clear vase with different flowers on a table",
+        "A close up of flowers in a vase.",
+        "A vase of red roses is in a church.",
+        "a bouquet of flowers and an ornate ceiling",
+        "A face of flowers is below an ornamental gold and white ceiling."
+      ],
+      "sha256": "05cec48b53024ece8de7860eee58cf4672333c919ded43a8d9c924eb8848f384",
+      "bytes": 199329
+    },
+    {
+      "image_id": 553879,
+      "file_name": "COCO_val2014_000000553879.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000553879.jpg",
+      "flickr_url": "http://farm8.staticflickr.com/7087/7156187749_c7f148ed2f_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 480,
+      "references": [
+        "A busy intersection with many cars and traffic lanes lies beneath an overpass.",
+        "Traffic on a highway during the daytime. ",
+        "There are many cars and buses on the busy highway.",
+        "Tons of traffic are scattered down the busy highway. ",
+        " A highway filled with heavy traffic near a cement bridge."
+      ],
+      "sha256": "1bdb1e8b90b79d6bb94d5106064d0b2fd48cb0754d39037cd32b14a58af2e8b5",
+      "bytes": 221599
+    },
+    {
+      "image_id": 553990,
+      "file_name": "COCO_val2014_000000553990.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000553990.jpg",
+      "flickr_url": "http://farm9.staticflickr.com/8539/8686063159_82aa07943f_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 600,
+      "height": 400,
+      "references": [
+        "A young person ridding a horse jumps a gate in a competition.",
+        "A man riding on a horse as it jumps over a pole. ",
+        "A woman is riding a horse as it jumps over a bar.",
+        "there is a woman jockey riding a hose over the hurdle",
+        "A woman riding a horse jumps over an obstacle."
+      ],
+      "sha256": "472936bccb8667be355d13173a1c0b2aeb4a4533855a69a1f97a6acc5d826239",
+      "bytes": 148618
+    },
+    {
+      "image_id": 554595,
+      "file_name": "COCO_val2014_000000554595.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000554595.jpg",
+      "flickr_url": "http://farm4.staticflickr.com/3106/2708564093_219fd741d1_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 500,
+      "height": 376,
+      "references": [
+        "A man laying on top of a sandy beach laying next to a surfboard.",
+        "A man laying on the beach next to a surfboard.",
+        "A man sits on a shore with his surfboard. ",
+        "A man in a blue shirt laying next to a yellow surfboard.",
+        "a close up of a person sitting on a beach next to a surf board"
+      ],
+      "sha256": "f87552f48714dda9163196051781716d6ae1e26824f214237f604f9f829f9fa5",
+      "bytes": 118296
+    },
+    {
+      "image_id": 558137,
+      "file_name": "COCO_val2014_000000558137.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000558137.jpg",
+      "flickr_url": "http://farm8.staticflickr.com/7075/7181889138_1b17b3dc25_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 427,
+      "references": [
+        "a person getting food from a food truck",
+        "A man getting food from a woman in a lunch truck.",
+        "a man buying some food at a food stand",
+        "A man at a food truck being handed his food. ",
+        "A man receives food from a street vendor in the city."
+      ],
+      "sha256": "4c75ccf44f815857e6dabfcb4a72f1e9fa8911c0061c929ff794e4e29e6658e3",
+      "bytes": 181629
+    },
+    {
+      "image_id": 563311,
+      "file_name": "COCO_val2014_000000563311.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000563311.jpg",
+      "flickr_url": "http://farm6.staticflickr.com/5048/5204457015_fa900ea7ac_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 478,
+      "height": 640,
+      "references": [
+        "An old wooden steeple with a clock on it",
+        "A large wooden tower on top of a brick pillar.",
+        "A clock has been built into the steeple of a building.",
+        "A large tower with a clock on it and a cross on the top",
+        "A wooden clock tower with a weather vain on top"
+      ],
+      "sha256": "61e561c7ee5d06c17d7ba1c05710cbacc4f43b5c623fc6e76e960f5f15e62f89",
+      "bytes": 195728
+    },
+    {
+      "image_id": 570736,
+      "file_name": "COCO_val2014_000000570736.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000570736.jpg",
+      "flickr_url": "http://farm4.staticflickr.com/3489/4047340119_4b5549e707_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 427,
+      "height": 640,
+      "references": [
+        "A view of a bathroom that is clean.",
+        "A bathroom with a vanity, toilet and shower.",
+        "The bathroom features a vanity sink and tub/shower combination.",
+        "A small bathroom is featured in this photo.",
+        "a cream themed bathroom with a toilet, sink with mirror, and shower"
+      ],
+      "sha256": "735d751a5d15a8d05b7a74ba4fef7ac4afe1c8167e09d5f5c6236f2c921edc2a",
+      "bytes": 75401
+    },
+    {
+      "image_id": 571821,
+      "file_name": "COCO_val2014_000000571821.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000571821.jpg",
+      "flickr_url": "http://farm4.staticflickr.com/3669/8817784741_54ca4ff4c5_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 520,
+      "height": 640,
+      "references": [
+        "A red double decker bus parked next to a group of women.",
+        "Three people, two of which wear red and white, stand in front of a red double decked bus on a corner.",
+        "Three people pose in front of a double decker bus.",
+        "A group of three people posing in front of a red double decker bus. ",
+        "Three people smile hugging in front of a city bus."
+      ],
+      "sha256": "551e4d1d8e354d0ed47592a364f6101b83471fb56405af4ffbbe847e282d288e",
+      "bytes": 221836
+    },
+    {
+      "image_id": 572182,
+      "file_name": "COCO_val2014_000000572182.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000572182.jpg",
+      "flickr_url": "http://farm8.staticflickr.com/7066/6874930906_9c666b3efa_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 555,
+      "references": [
+        "A girl hitching a ride with her Dad on a skateboard",
+        "A man riding a skateboard has a child between his legs. ",
+        "A girl sits between a mans legs on a skateboard.",
+        "A man riding a skateboard next to a woman.",
+        "the skateboarder has a passenger on his skateboard."
+      ],
+      "sha256": "675f643451b95c1950bf9f939da7e77f0917e063a74bdf08a960e1d9bcf16b8b",
+      "bytes": 270084
+    },
+    {
+      "image_id": 574804,
+      "file_name": "COCO_val2014_000000574804.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000574804.jpg",
+      "flickr_url": "http://farm3.staticflickr.com/2850/10100925025_ac2cb39e65_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 480,
+      "height": 640,
+      "references": [
+        "A woman that is standing up with skis.",
+        "a woman poses will holding some skis ",
+        "Awoman is holding a snow board as she prepares to use it.",
+        "A woman who is standing with a pair of skis.",
+        "A young lady holding a ski standing by a bench in a store."
+      ],
+      "sha256": "66d5af0d487f2b4452fe392a704027e086157caf92a39ceb1f47a5cc0d69c3a0",
+      "bytes": 179885
+    },
+    {
+      "image_id": 577033,
+      "file_name": "COCO_val2014_000000577033.jpg",
+      "url": "https://s3.amazonaws.com/images.cocodataset.org/val2014/COCO_val2014_000000577033.jpg",
+      "flickr_url": "http://farm8.staticflickr.com/7419/9211900135_cac5aa0044_z.jpg",
+      "license": {
+        "id": 4,
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "width": 640,
+      "height": 327,
+      "references": [
+        "A group of four men riding a rowboat across a river.",
+        "Four men rowing a boat in the same rowing clothes.",
+        "Crew team rowing yellow craft on calm water.",
+        "A group of men row a race boat across the water.",
+        "A team of people rowing a boat in the ocean"
+      ],
+      "sha256": "aec6f8b387c84fd7bb8aca19b24859b4ec45b437dda5d0623c988b63706edaac",
+      "bytes": 149711
+    }
+  ],
+  "limits": "License-restricted sample; not full Karpathy test. Unknown pretraining/web duplicate overlap cannot be excluded."
+}

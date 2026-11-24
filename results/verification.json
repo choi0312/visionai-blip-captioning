@@ -1,0 +1,56 @@
+{
+  "status": "passed",
+  "n": 100,
+  "independent_metrics": {
+    "greedy": {
+      "BLEU_4": 0.3007873584472609,
+      "CIDEr": 1.0690185990484486,
+      "clipped_ngram_counts": [
+        575,
+        334,
+        157,
+        67
+      ],
+      "possible_ngram_counts": [
+        693,
+        593,
+        493,
+        393
+      ],
+      "hypothesis_length": 693,
+      "closest_reference_length": 889
+    },
+    "beam3": {
+      "BLEU_4": 0.28052637583106804,
+      "CIDEr": 0.9948617063032884,
+      "clipped_ngram_counts": [
+        570,
+        297,
+        142,
+        62
+      ],
+      "possible_ngram_counts": [
+        716,
+        616,
+        516,
+        416
+      ],
+      "hypothesis_length": 716,
+      "closest_reference_length": 883
+    }
+  },
+  "checks": [
+    "100 distinct selected IDs",
+    "five PTB references each",
+    "independent corpus BLEU-4 clipping and brevity penalty",
+    "independent TF-IDF clipped CIDEr-D arithmetic including per-image scores",
+    "cross-attention token-row shape and probability sums",
+    "100 translation outputs",
+    "declared known train/val split exclusions"
+  ],
+  "sha256": {
+    "captions.json": "8011f8a88987ae48ae9c610fae71ff12e46f69dd112a19edf836e6ec372fa8aa",
+    "cross_attention.npz": "d116ed62d4e92f00130e869fa1ebb6e2065e33674c69ad18510bab01809199fa",
+    "tokenized_evidence.json": "c8338cb5c4913b0425e56c6ad33d47ebef70adc7dc9a002d7a7f46075114cea0"
+  }
+}

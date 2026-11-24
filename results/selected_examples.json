@@ -1,0 +1,46 @@
+{
+  "caption_examples": {
+    "rule": "beam3 per-image CIDEr ranks 0 and 99 after sorting by score then ID; post-hoc explanatory extremes, not a representative random subsample",
+    "ids": [
+      515540,
+      406976
+    ]
+  },
+  "attention_examples": [
+    {
+      "image_id": 4972,
+      "rows": [
+        1,
+        3
+      ],
+      "tokens": [
+        "horse",
+        "brown"
+      ]
+    },
+    {
+      "image_id": 19888,
+      "rows": [
+        1,
+        4
+      ],
+      "tokens": [
+        "bedroom",
+        "bed"
+      ]
+    }
+  ],
+  "attention_display": {
+    "source": "final decoder layer, 12-head mean, prefix row predicts next token; CLS removed and patch mass renormalized",
+    "shared_vmin": 0,
+    "shared_vmax": 0.0679832473397255,
+    "causal_explanation": false
+  },
+  "translation_examples": {
+    "rule": "first two predeclared sorted sample IDs; raw translation outputs",
+    "ids": [
+      4972,
+      19888
+    ]
+  }
+}

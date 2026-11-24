@@ -1,0 +1,128 @@
+[
+  {
+    "image_id": 4972,
+    "sequence_ids": [
+      30522,
+      1996,
+      3586,
+      2003,
+      2829,
+      102
+    ],
+    "predicted_tokens": [
+      "the",
+      "horse",
+      "is",
+      "brown",
+      "[SEP]"
+    ],
+    "shape": [
+      5,
+      577
+    ],
+    "layers": 12,
+    "heads": 12,
+    "image_tokens": 577
+  },
+  {
+    "image_id": 19888,
+    "sequence_ids": [
+      30522,
+      1037,
+      5010,
+      2007,
+      1037,
+      2793,
+      1998,
+      1037,
+      3332,
+      102
+    ],
+    "predicted_tokens": [
+      "a",
+      "bedroom",
+      "with",
+      "a",
+      "bed",
+      "and",
+      "a",
+      "window",
+      "[SEP]"
+    ],
+    "shape": [
+      9,
+      577
+    ],
+    "layers": 12,
+    "heads": 12,
+    "image_tokens": 577
+  },
+  {
+    "image_id": 21198,
+    "sequence_ids": [
+      30522,
+      1037,
+      2711,
+      3564,
+      2012,
+      1037,
+      2795,
+      1999,
+      1037,
+      3829,
+      102
+    ],
+    "predicted_tokens": [
+      "a",
+      "person",
+      "sitting",
+      "at",
+      "a",
+      "table",
+      "in",
+      "a",
+      "kitchen",
+      "[SEP]"
+    ],
+    "shape": [
+      10,
+      577
+    ],
+    "layers": 12,
+    "heads": 12,
+    "image_tokens": 577
+  },
+  {
+    "image_id": 23117,
+    "sequence_ids": [
+      30522,
+      1037,
+      3232,
+      1997,
+      2111,
+      3061,
+      2104,
+      2019,
+      12977,
+      102
+    ],
+    "predicted_tokens": [
+      "a",
+      "couple",
+      "of",
+      "people",
+      "standing",
+      "under",
+      "an",
+      "umbrella",
+      "[SEP]"
+    ],
+    "shape": [
+      9,
+      577
+    ],
+    "layers": 12,
+    "heads": 12,
+    "image_tokens": 577
+  }
+]

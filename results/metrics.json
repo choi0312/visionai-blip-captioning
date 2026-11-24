@@ -1,0 +1,34 @@
+{
+  "conditions": {
+    "greedy": {
+      "BLEU_1": 0.6253222005357751,
+      "BLEU_4": 0.3007873584472609,
+      "CIDEr": 1.0690185990484486,
+      "mean_ptb_words": 6.93,
+      "ended_with_eos": 100,
+      "n": 100
+    },
+    "beam3": {
+      "BLEU_1": 0.6304735788071352,
+      "BLEU_4": 0.28052637583106804,
+      "CIDEr": 0.9948617063032885,
+      "mean_ptb_words": 7.16,
+      "ended_with_eos": 100,
+      "n": 100
+    }
+  },
+  "paired": {
+    "changed_captions": 72,
+    "cider_improved": 33,
+    "cider_regressed": 39,
+    "cider_equal": 28
+  },
+  "evaluation": {
+    "n_images": 100,
+    "references_per_image": 5,
+    "tokenizer": "Stanford PTBTokenizer (pycocoevalcap 1.2)",
+    "BLEU_4": "corpus cumulative 1-4 gram geometric mean, clipped modified precision, closest-reference brevity penalty; raw 0-1 scale",
+    "CIDEr": "pycocoevalcap Cider scorer, 1-4 gram TF-IDF, clipping and Gaussian length penalty sigma6, library x10 scale; document frequencies estimated on the same 100 reference groups",
+    "limits": "scores not directly comparable with full 5000-image benchmark; no Korean reference or formal human-rating study"
+  }
+}

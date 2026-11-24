@@ -1,0 +1,6054 @@
+[
+  {
+    "image_id": 4972,
+    "file_name": "COCO_val2014_000000004972.jpg",
+    "greedy": {
+      "caption": "a horse standing next to a man",
+      "token_ids": [
+        30522,
+        1037,
+        3586,
+        3061,
+        2279,
+        2000,
+        1037,
+        2158,
+        102
+      ],
+      "new_tokens": 8,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "the horse is brown",
+      "token_ids": [
+        30522,
+        1996,
+        3586,
+        2003,
+        2829,
+        102
+      ],
+      "new_tokens": 5,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "말은 갈색이다.",
+      "token_ids": [
+        2,
+        128052,
+        10127,
+        1028,
+        53652,
+        25943,
+        8634,
+        5,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 19888,
+    "file_name": "COCO_val2014_000000019888.jpg",
+    "greedy": {
+      "caption": "a bed with a blanket",
+      "token_ids": [
+        30522,
+        1037,
+        2793,
+        2007,
+        1037,
+        8768,
+        102
+      ],
+      "new_tokens": 6,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a bedroom with a bed and a window",
+      "token_ids": [
+        30522,
+        1037,
+        5010,
+        2007,
+        1037,
+        2793,
+        1998,
+        1037,
+        3332,
+        102
+      ],
+      "new_tokens": 9,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "침대와 창문이 있는 침실",
+      "token_ids": [
+        2,
+        128052,
+        71025,
+        2993,
+        2992,
+        27826,
+        8452,
+        522,
+        5323,
+        71025,
+        8537,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 21198,
+    "file_name": "COCO_val2014_000000021198.jpg",
+    "greedy": {
+      "caption": "a person sitting at a table in a kitchen",
+      "token_ids": [
+        30522,
+        1037,
+        2711,
+        3564,
+        2012,
+        1037,
+        2795,
+        1999,
+        1037,
+        3829,
+        102
+      ],
+      "new_tokens": 10,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a person sitting at a table in a kitchen",
+      "token_ids": [
+        30522,
+        1037,
+        2711,
+        3564,
+        2012,
+        1037,
+        2795,
+        1999,
+        1037,
+        3829,
+        102
+      ],
+      "new_tokens": 10,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "부엌에서 테이블에 앉아있는 사람",
+      "token_ids": [
+        2,
+        128052,
+        6824,
+        126467,
+        1903,
+        40026,
+        522,
+        26821,
+        668,
+        22,
+        118031,
+        3816,
+        43790,
+        14179,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 23117,
+    "file_name": "COCO_val2014_000000023117.jpg",
+    "greedy": {
+      "caption": "two people dressed in blue",
+      "token_ids": [
+        30522,
+        2048,
+        2111,
+        5102,
+        1999,
+        2630,
+        102
+      ],
+      "new_tokens": 6,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a couple of people standing under an umbrella",
+      "token_ids": [
+        30522,
+        1037,
+        3232,
+        1997,
+        2111,
+        3061,
+        2104,
+        2019,
+        12977,
+        102
+      ],
+      "new_tokens": 9,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "벽돌 아래에 서있는 몇 명의 사람",
+      "token_ids": [
+        2,
+        128052,
+        22,
+        51876,
+        65162,
+        63293,
+        668,
+        15250,
+        43790,
+        55777,
+        18580,
+        526,
+        14179,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 23351,
+    "file_name": "COCO_val2014_000000023351.jpg",
+    "greedy": {
+      "caption": "a group of gis",
+      "token_ids": [
+        30522,
+        1037,
+        2177,
+        1997,
+        21025,
+        2015,
+        102
+      ],
+      "new_tokens": 6,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a group of gis in a zoo enclosure",
+      "token_ids": [
+        30522,
+        1037,
+        2177,
+        1997,
+        21025,
+        2015,
+        1999,
+        1037,
+        9201,
+        17539,
+        102
+      ],
+      "new_tokens": 10,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "동물원 덮개에 있는 짐승 그룹",
+      "token_ids": [
+        2,
+        128052,
+        9056,
+        7971,
+        3335,
+        22,
+        122435,
+        8846,
+        668,
+        5323,
+        22,
+        92880,
+        22746,
+        3515,
+        63105,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 33144,
+    "file_name": "COCO_val2014_000000033144.jpg",
+    "greedy": {
+      "caption": "a truck with graffiti on it",
+      "token_ids": [
+        30522,
+        1037,
+        4744,
+        2007,
+        17990,
+        2006,
+        2009,
+        102
+      ],
+      "new_tokens": 7,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "the truck is white",
+      "token_ids": [
+        30522,
+        1996,
+        4744,
+        2003,
+        2317,
+        102
+      ],
+      "new_tokens": 5,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "트럭은 흰색",
+      "token_ids": [
+        2,
+        128052,
+        27164,
+        86694,
+        1028,
+        22,
+        122942,
+        25943,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 33672,
+    "file_name": "COCO_val2014_000000033672.jpg",
+    "greedy": {
+      "caption": "a person riding a horse",
+      "token_ids": [
+        30522,
+        1037,
+        2711,
+        5559,
+        1037,
+        3586,
+        102
+      ],
+      "new_tokens": 6,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a person riding a horse",
+      "token_ids": [
+        30522,
+        1037,
+        2711,
+        5559,
+        1037,
+        3586,
+        102
+      ],
+      "new_tokens": 6,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "말을 타고 다니는 사람",
+      "token_ids": [
+        2,
+        128052,
+        10127,
+        520,
+        23108,
+        1357,
+        7220,
+        5158,
+        1029,
+        14179,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 53892,
+    "file_name": "COCO_val2014_000000053892.jpg",
+    "greedy": {
+      "caption": "a box of doughs with frosting on them",
+      "token_ids": [
+        30522,
+        1037,
+        3482,
+        1997,
+        23126,
+        2015,
+        2007,
+        10097,
+        2075,
+        2006,
+        2068,
+        102
+      ],
+      "new_tokens": 11,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "six glazed donuts with blue frosting on top",
+      "token_ids": [
+        30522,
+        2416,
+        19724,
+        2123,
+        16446,
+        2007,
+        2630,
+        10097,
+        2075,
+        2006,
+        2327,
+        102
+      ],
+      "new_tokens": 11,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "6 개의 얼어붙은 도노트, 위에 파란색 냉동",
+      "token_ids": [
+        2,
+        128052,
+        376,
+        12700,
+        526,
+        119705,
+        2254,
+        119579,
+        1028,
+        10746,
+        17638,
+        4285,
+        4,
+        11149,
+        668,
+        16769,
+        18841,
+        25943,
+        22,
+        114901,
+        5244,
+        2
+      ]
+    }
+  },
+  {
+    "image_id": 55010,
+    "file_name": "COCO_val2014_000000055010.jpg",
+    "greedy": {
+      "caption": "a plate of food",
+      "token_ids": [
+        30522,
+        1037,
+        5127,
+        1997,
+        2833,
+        102
+      ],
+      "new_tokens": 5,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a white plate with food on it",
+      "token_ids": [
+        30522,
+        1037,
+        2317,
+        5127,
+        2007,
+        2833,
+        2006,
+        2009,
+        102
+      ],
+      "new_tokens": 8,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "그 위에 음식이 있는 화이트 플레이트",
+      "token_ids": [
+        2,
+        128052,
+        3515,
+        11149,
+        668,
+        74351,
+        522,
+        5323,
+        17727,
+        36342,
+        32984,
+        14964,
+        36342,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 58492,
+    "file_name": "COCO_val2014_000000058492.jpg",
+    "greedy": {
+      "caption": "a bird is flying",
+      "token_ids": [
+        30522,
+        1037,
+        4743,
+        2003,
+        3909,
+        102
+      ],
+      "new_tokens": 5,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "the bird is black and white",
+      "token_ids": [
+        30522,
+        1996,
+        4743,
+        2003,
+        2304,
+        1998,
+        2317,
+        102
+      ],
+      "new_tokens": 7,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "새는 검정색과 흰색입니다.",
+      "token_ids": [
+        2,
+        128052,
+        27713,
+        1029,
+        39389,
+        2973,
+        25943,
+        1965,
+        22,
+        122942,
+        25943,
+        10340,
+        5,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 58569,
+    "file_name": "COCO_val2014_000000058569.jpg",
+    "greedy": {
+      "caption": "a red bus on the street",
+      "token_ids": [
+        30522,
+        1037,
+        2417,
+        3902,
+        2006,
+        1996,
+        2395,
+        102
+      ],
+      "new_tokens": 7,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "the bus is red",
+      "token_ids": [
+        30522,
+        1996,
+        3902,
+        2003,
+        2417,
+        102
+      ],
+      "new_tokens": 5,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "버스는 빨간색",
+      "token_ids": [
+        2,
+        128052,
+        27867,
+        112455,
+        92061,
+        9750,
+        25943,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 66179,
+    "file_name": "COCO_val2014_000000066179.jpg",
+    "greedy": {
+      "caption": "a banana tree with a bunch of bananas hanging from it ' s branches",
+      "token_ids": [
+        30522,
+        1037,
+        15212,
+        3392,
+        2007,
+        1037,
+        9129,
+        1997,
+        26191,
+        5689,
+        2013,
+        2009,
+        1005,
+        1055,
+        5628,
+        102
+      ],
+      "new_tokens": 15,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a bunch of bananas hanging from a banana tree",
+      "token_ids": [
+        30522,
+        1037,
+        9129,
+        1997,
+        26191,
+        5689,
+        2013,
+        1037,
+        15212,
+        3392,
+        102
+      ],
+      "new_tokens": 10,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "바나나 나무에서 묶여있는 바나나의 덩어리",
+      "token_ids": [
+        2,
+        128052,
+        8939,
+        4440,
+        4440,
+        5643,
+        7649,
+        1903,
+        22,
+        123573,
+        8585,
+        43790,
+        8939,
+        4440,
+        4440,
+        526,
+        22,
+        118325,
+        2254,
+        1509,
+        2
+      ]
+    }
+  },
+  {
+    "image_id": 69392,
+    "file_name": "COCO_val2014_000000069392.jpg",
+    "greedy": {
+      "caption": "a tennis court",
+      "token_ids": [
+        30522,
+        1037,
+        5093,
+        2457,
+        102
+      ],
+      "new_tokens": 4,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "people playing tennis on a tennis court",
+      "token_ids": [
+        30522,
+        2111,
+        2652,
+        5093,
+        2006,
+        1037,
+        5093,
+        2457,
+        102
+      ],
+      "new_tokens": 8,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "사람들은 테니스 코트에서 테니스를 연주합니다.",
+      "token_ids": [
+        2,
+        128052,
+        14179,
+        15678,
+        40026,
+        73718,
+        21960,
+        4285,
+        1903,
+        40026,
+        73718,
+        1261,
+        10064,
+        3066,
+        12013,
+        5,
+        2,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 71171,
+    "file_name": "COCO_val2014_000000071171.jpg",
+    "greedy": {
+      "caption": "a plate of food",
+      "token_ids": [
+        30522,
+        1037,
+        5127,
+        1997,
+        2833,
+        102
+      ],
+      "new_tokens": 5,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a plate of food on a table",
+      "token_ids": [
+        30522,
+        1037,
+        5127,
+        1997,
+        2833,
+        2006,
+        1037,
+        2795,
+        102
+      ],
+      "new_tokens": 8,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "테이블 위에 식료품 한 잔",
+      "token_ids": [
+        2,
+        128052,
+        40026,
+        522,
+        26821,
+        11149,
+        668,
+        26912,
+        13806,
+        14724,
+        4883,
+        22,
+        74535,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 74733,
+    "file_name": "COCO_val2014_000000074733.jpg",
+    "greedy": {
+      "caption": "a wooden tray with food on it",
+      "token_ids": [
+        30522,
+        1037,
+        4799,
+        11851,
+        2007,
+        2833,
+        2006,
+        2009,
+        102
+      ],
+      "new_tokens": 8,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a wooden tray holding a pizza and beer",
+      "token_ids": [
+        30522,
+        1037,
+        4799,
+        11851,
+        3173,
+        1037,
+        10733,
+        1998,
+        5404,
+        102
+      ],
+      "new_tokens": 9,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "피자와 맥주를 가지고있는 나무 트레이",
+      "token_ids": [
+        2,
+        128052,
+        22356,
+        2097,
+        2992,
+        113575,
+        3066,
+        1261,
+        61095,
+        43790,
+        5643,
+        7649,
+        27164,
+        25934,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 75888,
+    "file_name": "COCO_val2014_000000075888.jpg",
+    "greedy": {
+      "caption": "a plate of food",
+      "token_ids": [
+        30522,
+        1037,
+        5127,
+        1997,
+        2833,
+        102
+      ],
+      "new_tokens": 5,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a plate of food on a table",
+      "token_ids": [
+        30522,
+        1037,
+        5127,
+        1997,
+        2833,
+        2006,
+        1037,
+        2795,
+        102
+      ],
+      "new_tokens": 8,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "테이블 위에 식료품 한 잔",
+      "token_ids": [
+        2,
+        128052,
+        40026,
+        522,
+        26821,
+        11149,
+        668,
+        26912,
+        13806,
+        14724,
+        4883,
+        22,
+        74535,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 77181,
+    "file_name": "COCO_val2014_000000077181.jpg",
+    "greedy": {
+      "caption": "a woman cutting a cake",
+      "token_ids": [
+        30522,
+        1037,
+        2450,
+        6276,
+        1037,
+        9850,
+        102
+      ],
+      "new_tokens": 6,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a group of people standing around a cake",
+      "token_ids": [
+        30522,
+        1037,
+        2177,
+        1997,
+        2111,
+        3061,
+        2105,
+        1037,
+        9850,
+        102
+      ],
+      "new_tokens": 9,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "케이크 주위에 서있는 사람들의 그룹",
+      "token_ids": [
+        2,
+        128052,
+        22,
+        60182,
+        10362,
+        4218,
+        7139,
+        668,
+        15250,
+        43790,
+        14179,
+        16909,
+        3515,
+        63105,
+        2,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 85527,
+    "file_name": "COCO_val2014_000000085527.jpg",
+    "greedy": {
+      "caption": "a man in a suit and tie holding a glass of wine",
+      "token_ids": [
+        30522,
+        1037,
+        2158,
+        1999,
+        1037,
+        4848,
+        1998,
+        5495,
+        3173,
+        1037,
+        3221,
+        1997,
+        4511,
+        102
+      ],
+      "new_tokens": 13,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a man in a suit holding a glass of wine",
+      "token_ids": [
+        30522,
+        1037,
+        2158,
+        1999,
+        1037,
+        4848,
+        3173,
+        1037,
+        3221,
+        1997,
+        4511,
+        102
+      ],
+      "new_tokens": 11,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "와인 한 잔을 들고 있는 옷을 입은 남자",
+      "token_ids": [
+        2,
+        128052,
+        46178,
+        2030,
+        4883,
+        22,
+        74535,
+        520,
+        28255,
+        1357,
+        5323,
+        22,
+        105667,
+        520,
+        15563,
+        1028,
+        96754,
+        2
+      ]
+    }
+  },
+  {
+    "image_id": 91045,
+    "file_name": "COCO_val2014_000000091045.jpg",
+    "greedy": {
+      "caption": "two men in tuxed suits",
+      "token_ids": [
+        30522,
+        2048,
+        2273,
+        1999,
+        10722,
+        19068,
+        11072,
+        102
+      ],
+      "new_tokens": 7,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a man in a black suit",
+      "token_ids": [
+        30522,
+        1037,
+        2158,
+        1999,
+        1037,
+        2304,
+        4848,
+        102
+      ],
+      "new_tokens": 7,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "검은 옷을 입은 남자",
+      "token_ids": [
+        2,
+        128052,
+        39389,
+        1028,
+        22,
+        105667,
+        520,
+        15563,
+        1028,
+        96754,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 101491,
+    "file_name": "COCO_val2014_000000101491.jpg",
+    "greedy": {
+      "caption": "a man walking down a street with a suitcase",
+      "token_ids": [
+        30522,
+        1037,
+        2158,
+        3788,
+        2091,
+        1037,
+        2395,
+        2007,
+        1037,
+        15940,
+        102
+      ],
+      "new_tokens": 10,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a woman walking down the street with a suitcase",
+      "token_ids": [
+        30522,
+        1037,
+        2450,
+        3788,
+        2091,
+        1996,
+        2395,
+        2007,
+        1037,
+        15940,
+        102
+      ],
+      "new_tokens": 10,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "한 여자가 가방을 가지고 거리로 걸어갔다.",
+      "token_ids": [
+        2,
+        128052,
+        4883,
+        12520,
+        31981,
+        4602,
+        8992,
+        520,
+        61095,
+        10435,
+        1509,
+        1406,
+        29826,
+        2254,
+        73223,
+        2273,
+        5,
+        2
+      ]
+    }
+  },
+  {
+    "image_id": 117458,
+    "file_name": "COCO_val2014_000000117458.jpg",
+    "greedy": {
+      "caption": "a person riding a motorcycle on a street",
+      "token_ids": [
+        30522,
+        1037,
+        2711,
+        5559,
+        1037,
+        9055,
+        2006,
+        1037,
+        2395,
+        102
+      ],
+      "new_tokens": 9,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a man riding a motorcycle down a street",
+      "token_ids": [
+        30522,
+        1037,
+        2158,
+        5559,
+        1037,
+        9055,
+        2091,
+        1037,
+        2395,
+        102
+      ],
+      "new_tokens": 9,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "한 남자가 자전거를 타고 거리에서",
+      "token_ids": [
+        2,
+        128052,
+        4883,
+        13083,
+        31981,
+        7196,
+        3680,
+        8419,
+        1261,
+        23108,
+        1357,
+        10435,
+        1509,
+        1903,
+        2,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 120792,
+    "file_name": "COCO_val2014_000000120792.jpg",
+    "greedy": {
+      "caption": "two people playing a video game in a living room",
+      "token_ids": [
+        30522,
+        2048,
+        2111,
+        2652,
+        1037,
+        2678,
+        2208,
+        1999,
+        1037,
+        2542,
+        2282,
+        102
+      ],
+      "new_tokens": 11,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "two people playing a video game in a living room",
+      "token_ids": [
+        30522,
+        2048,
+        2111,
+        2652,
+        1037,
+        2678,
+        2208,
+        1999,
+        1037,
+        2542,
+        2282,
+        102
+      ],
+      "new_tokens": 11,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "두 사람은 거실에서 비디오 게임을합니다.",
+      "token_ids": [
+        2,
+        128052,
+        16039,
+        14179,
+        1028,
+        10435,
+        8537,
+        1903,
+        6413,
+        71416,
+        36135,
+        520,
+        12013,
+        5,
+        2,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 122354,
+    "file_name": "COCO_val2014_000000122354.jpg",
+    "greedy": {
+      "caption": "a street with a no parking sign on it",
+      "token_ids": [
+        30522,
+        1037,
+        2395,
+        2007,
+        1037,
+        2053,
+        5581,
+        3696,
+        2006,
+        2009,
+        102
+      ],
+      "new_tokens": 10,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a stop sign on the side of a road",
+      "token_ids": [
+        30522,
+        1037,
+        2644,
+        3696,
+        2006,
+        1996,
+        2217,
+        1997,
+        1037,
+        2346,
+        102
+      ],
+      "new_tokens": 10,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "도로의 측면에 멈추는 표지판",
+      "token_ids": [
+        2,
+        128052,
+        10746,
+        1406,
+        526,
+        66528,
+        4765,
+        668,
+        22,
+        122246,
+        25407,
+        1029,
+        49267,
+        1452,
+        17510,
+        2,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 122747,
+    "file_name": "COCO_val2014_000000122747.jpg",
+    "greedy": {
+      "caption": "a man wearing a bow tie",
+      "token_ids": [
+        30522,
+        1037,
+        2158,
+        4147,
+        1037,
+        6812,
+        5495,
+        102
+      ],
+      "new_tokens": 7,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a man wearing a black shirt",
+      "token_ids": [
+        30522,
+        1037,
+        2158,
+        4147,
+        1037,
+        2304,
+        3797,
+        102
+      ],
+      "new_tokens": 7,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "검은 셔츠를 입은 남자",
+      "token_ids": [
+        2,
+        128052,
+        39389,
+        1028,
+        22,
+        50834,
+        52433,
+        1261,
+        15563,
+        1028,
+        96754,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 128528,
+    "file_name": "COCO_val2014_000000128528.jpg",
+    "greedy": {
+      "caption": "a dog running in the snow",
+      "token_ids": [
+        30522,
+        1037,
+        3899,
+        2770,
+        1999,
+        1996,
+        4586,
+        102
+      ],
+      "new_tokens": 7,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a brown and white dog running in the snow",
+      "token_ids": [
+        30522,
+        1037,
+        2829,
+        1998,
+        2317,
+        3899,
+        2770,
+        1999,
+        1996,
+        4586,
+        102
+      ],
+      "new_tokens": 10,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "흰색과 갈색 개가 얼음 속에서 달리고 있다.",
+      "token_ids": [
+        2,
+        128052,
+        22,
+        122942,
+        25943,
+        1965,
+        53652,
+        25943,
+        12700,
+        949,
+        119705,
+        14029,
+        24188,
+        1903,
+        17772,
+        51677,
+        5640,
+        5,
+        2,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 139660,
+    "file_name": "COCO_val2014_000000139660.jpg",
+    "greedy": {
+      "caption": "a bird is perched on a tree branch",
+      "token_ids": [
+        30522,
+        1037,
+        4743,
+        2003,
+        17335,
+        2006,
+        1037,
+        3392,
+        3589,
+        102
+      ],
+      "new_tokens": 9,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a bird is perched on a tree branch",
+      "token_ids": [
+        30522,
+        1037,
+        4743,
+        2003,
+        17335,
+        2006,
+        1037,
+        3392,
+        3589,
+        102
+      ],
+      "new_tokens": 9,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "새가 나무의 지점에 묶여있다.",
+      "token_ids": [
+        2,
+        128052,
+        27713,
+        949,
+        5643,
+        7649,
+        526,
+        5757,
+        11245,
+        668,
+        22,
+        123573,
+        8585,
+        31053,
+        2273,
+        5,
+        2,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 143103,
+    "file_name": "COCO_val2014_000000143103.jpg",
+    "greedy": {
+      "caption": "a group of people skiing down a snowy slope",
+      "token_ids": [
+        30522,
+        1037,
+        2177,
+        1997,
+        2111,
+        12701,
+        2091,
+        1037,
+        20981,
+        9663,
+        102
+      ],
+      "new_tokens": 10,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a group of people skiing down a snowy slope",
+      "token_ids": [
+        30522,
+        1037,
+        2177,
+        1997,
+        2111,
+        12701,
+        2091,
+        1037,
+        20981,
+        9663,
+        102
+      ],
+      "new_tokens": 10,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "그룹의 사람들 스키 아래에서 빙하 슬로프",
+      "token_ids": [
+        2,
+        128052,
+        3515,
+        63105,
+        526,
+        14179,
+        7672,
+        8938,
+        17955,
+        63293,
+        1903,
+        22,
+        114989,
+        4527,
+        79545,
+        1406,
+        8454,
+        2,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 149196,
+    "file_name": "COCO_val2014_000000149196.jpg",
+    "greedy": {
+      "caption": "a bunch of bananas hanging from the ceiling",
+      "token_ids": [
+        30522,
+        1037,
+        9129,
+        1997,
+        26191,
+        5689,
+        2013,
+        1996,
+        5894,
+        102
+      ],
+      "new_tokens": 9,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a bunch of bananas hanging from the ceiling",
+      "token_ids": [
+        30522,
+        1037,
+        9129,
+        1997,
+        26191,
+        5689,
+        2013,
+        1996,
+        5894,
+        102
+      ],
+      "new_tokens": 9,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "지붕에서 묶여있는 바나나의 덩어리",
+      "token_ids": [
+        2,
+        128052,
+        5757,
+        121577,
+        1903,
+        22,
+        123573,
+        8585,
+        43790,
+        8939,
+        4440,
+        4440,
+        526,
+        22,
+        118325,
+        2254,
+        1509,
+        2,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 152326,
+    "file_name": "COCO_val2014_000000152326.jpg",
+    "greedy": {
+      "caption": "a man and woman cutting a cake together",
+      "token_ids": [
+        30522,
+        1037,
+        2158,
+        1998,
+        2450,
+        6276,
+        1037,
+        9850,
+        2362,
+        102
+      ],
+      "new_tokens": 9,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a man and woman cutting a cake together",
+      "token_ids": [
+        30522,
+        1037,
+        2158,
+        1998,
+        2450,
+        6276,
+        1037,
+        9850,
+        2362,
+        102
+      ],
+      "new_tokens": 9,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "남자와 여자가 함께 케이크를 잘라",
+      "token_ids": [
+        2,
+        128052,
+        96754,
+        2992,
+        12520,
+        31981,
+        17893,
+        22,
+        60182,
+        10362,
+        1261,
+        15612,
+        4044,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 154867,
+    "file_name": "COCO_val2014_000000154867.jpg",
+    "greedy": {
+      "caption": "a kite flying over a field with a person on a hill",
+      "token_ids": [
+        30522,
+        1037,
+        20497,
+        3909,
+        2058,
+        1037,
+        2492,
+        2007,
+        1037,
+        2711,
+        2006,
+        1037,
+        2940,
+        102
+      ],
+      "new_tokens": 13,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a kite is flying over a hole in the ground",
+      "token_ids": [
+        30522,
+        1037,
+        20497,
+        2003,
+        3909,
+        2058,
+        1037,
+        4920,
+        1999,
+        1996,
+        2598,
+        102
+      ],
+      "new_tokens": 11,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "지상에 있는 구멍을 넘어서 날아다니는 고양이",
+      "token_ids": [
+        2,
+        128052,
+        5757,
+        3963,
+        668,
+        5323,
+        10318,
+        120747,
+        520,
+        40343,
+        59345,
+        24725,
+        3816,
+        2273,
+        5158,
+        1029,
+        7556,
+        10948,
+        522,
+        2
+      ]
+    }
+  },
+  {
+    "image_id": 155714,
+    "file_name": "COCO_val2014_000000155714.jpg",
+    "greedy": {
+      "caption": "a pizza on a plate",
+      "token_ids": [
+        30522,
+        1037,
+        10733,
+        2006,
+        1037,
+        5127,
+        102
+      ],
+      "new_tokens": 6,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "pizza on a silver plate",
+      "token_ids": [
+        30522,
+        10733,
+        2006,
+        1037,
+        3165,
+        5127,
+        102
+      ],
+      "new_tokens": 6,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "피자, 실버 플레이트",
+      "token_ids": [
+        2,
+        128052,
+        22356,
+        2097,
+        4,
+        11966,
+        12727,
+        32984,
+        14964,
+        36342,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 157184,
+    "file_name": "COCO_val2014_000000157184.jpg",
+    "greedy": {
+      "caption": "a man holding a knife",
+      "token_ids": [
+        30522,
+        1037,
+        2158,
+        3173,
+        1037,
+        5442,
+        102
+      ],
+      "new_tokens": 6,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a man holding a knife",
+      "token_ids": [
+        30522,
+        1037,
+        2158,
+        3173,
+        1037,
+        5442,
+        102
+      ],
+      "new_tokens": 6,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "칼을 들고 있는 남자",
+      "token_ids": [
+        2,
+        128052,
+        114242,
+        520,
+        28255,
+        1357,
+        5323,
+        96754,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 159044,
+    "file_name": "COCO_val2014_000000159044.jpg",
+    "greedy": {
+      "caption": "a person surfing on a wave in the ocean",
+      "token_ids": [
+        30522,
+        1037,
+        2711,
+        19967,
+        2006,
+        1037,
+        4400,
+        1999,
+        1996,
+        4153,
+        102
+      ],
+      "new_tokens": 10,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a person riding a wave in the ocean",
+      "token_ids": [
+        30522,
+        1037,
+        2711,
+        5559,
+        1037,
+        4400,
+        1999,
+        1996,
+        4153,
+        102
+      ],
+      "new_tokens": 9,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "바다에서 파도를 타는 사람",
+      "token_ids": [
+        2,
+        128052,
+        8939,
+        2273,
+        1903,
+        16769,
+        71769,
+        23108,
+        1029,
+        14179,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 163118,
+    "file_name": "COCO_val2014_000000163118.jpg",
+    "greedy": {
+      "caption": "two men playing fron",
+      "token_ids": [
+        30522,
+        2048,
+        2273,
+        2652,
+        10424,
+        2239,
+        102
+      ],
+      "new_tokens": 6,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "two men playing a game of frc",
+      "token_ids": [
+        30522,
+        2048,
+        2273,
+        2652,
+        1037,
+        2208,
+        1997,
+        10424,
+        2278,
+        102
+      ],
+      "new_tokens": 9,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "두 명의 남성이 프리미엄 게임을합니다.",
+      "token_ids": [
+        2,
+        128052,
+        16039,
+        18580,
+        526,
+        13083,
+        57949,
+        27467,
+        1509,
+        7153,
+        85132,
+        36135,
+        520,
+        12013,
+        5,
+        2,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 173385,
+    "file_name": "COCO_val2014_000000173385.jpg",
+    "greedy": {
+      "caption": "a small elephant standing in a dirt area",
+      "token_ids": [
+        30522,
+        1037,
+        2235,
+        10777,
+        3061,
+        1999,
+        1037,
+        6900,
+        2181,
+        102
+      ],
+      "new_tokens": 9,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "an elephant standing in the dirt in a zoo enclosure",
+      "token_ids": [
+        30522,
+        2019,
+        10777,
+        3061,
+        1999,
+        1996,
+        6900,
+        1999,
+        1037,
+        9201,
+        17539,
+        102
+      ],
+      "new_tokens": 11,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "동물원 덮개에서 흙 속에 서 있는 코끼리",
+      "token_ids": [
+        2,
+        128052,
+        9056,
+        7971,
+        3335,
+        22,
+        122435,
+        8846,
+        1903,
+        22,
+        124763,
+        24188,
+        668,
+        15250,
+        5323,
+        21960,
+        47529,
+        1509,
+        2
+      ]
+    }
+  },
+  {
+    "image_id": 182784,
+    "file_name": "COCO_val2014_000000182784.jpg",
+    "greedy": {
+      "caption": "a cow standing in front of a market",
+      "token_ids": [
+        30522,
+        1037,
+        11190,
+        3061,
+        1999,
+        2392,
+        1997,
+        1037,
+        3006,
+        102
+      ],
+      "new_tokens": 9,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a cow standing on the side of a road",
+      "token_ids": [
+        30522,
+        1037,
+        11190,
+        3061,
+        2006,
+        1996,
+        2217,
+        1997,
+        1037,
+        2346,
+        102
+      ],
+      "new_tokens": 10,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "길 옆에 서 있는 염소",
+      "token_ids": [
+        2,
+        128052,
+        37237,
+        22,
+        118124,
+        668,
+        15250,
+        5323,
+        22,
+        47408,
+        3889,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 184400,
+    "file_name": "COCO_val2014_000000184400.jpg",
+    "greedy": {
+      "caption": "a train on a bridge over a street",
+      "token_ids": [
+        30522,
+        1037,
+        3345,
+        2006,
+        1037,
+        2958,
+        2058,
+        1037,
+        2395,
+        102
+      ],
+      "new_tokens": 9,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "the train is blue and red",
+      "token_ids": [
+        30522,
+        1996,
+        3345,
+        2003,
+        2630,
+        1998,
+        2417,
+        102
+      ],
+      "new_tokens": 7,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "기차는 파란색과 빨간색입니다.",
+      "token_ids": [
+        2,
+        128052,
+        6555,
+        8691,
+        1029,
+        16769,
+        18841,
+        25943,
+        1965,
+        92061,
+        9750,
+        25943,
+        10340,
+        5,
+        2,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 184902,
+    "file_name": "COCO_val2014_000000184902.jpg",
+    "greedy": {
+      "caption": "a living room with a fireplace and a couch",
+      "token_ids": [
+        30522,
+        1037,
+        2542,
+        2282,
+        2007,
+        1037,
+        13788,
+        1998,
+        1037,
+        6411,
+        102
+      ],
+      "new_tokens": 10,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a living room filled with furniture and a fireplace",
+      "token_ids": [
+        30522,
+        1037,
+        2542,
+        2282,
+        3561,
+        2007,
+        7390,
+        1998,
+        1037,
+        13788,
+        102
+      ],
+      "new_tokens": 10,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "가구와 화재로 가득 찬 거실",
+      "token_ids": [
+        2,
+        128052,
+        4602,
+        4467,
+        2992,
+        17727,
+        8380,
+        1406,
+        4602,
+        33220,
+        22,
+        41115,
+        10435,
+        8537,
+        2,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 186282,
+    "file_name": "COCO_val2014_000000186282.jpg",
+    "greedy": {
+      "caption": "a computer on a desk",
+      "token_ids": [
+        30522,
+        1037,
+        3274,
+        2006,
+        1037,
+        4624,
+        102
+      ],
+      "new_tokens": 6,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a computer on a desk",
+      "token_ids": [
+        30522,
+        1037,
+        3274,
+        2006,
+        1037,
+        4624,
+        102
+      ],
+      "new_tokens": 6,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "책상에 있는 컴퓨터",
+      "token_ids": [
+        2,
+        128052,
+        37938,
+        3963,
+        668,
+        5323,
+        102345,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 188718,
+    "file_name": "COCO_val2014_000000188718.jpg",
+    "greedy": {
+      "caption": "two zebras in a field",
+      "token_ids": [
+        30522,
+        2048,
+        29145,
+        2015,
+        1999,
+        1037,
+        2492,
+        102
+      ],
+      "new_tokens": 7,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "two zebras in a field",
+      "token_ids": [
+        30522,
+        2048,
+        29145,
+        2015,
+        1999,
+        1037,
+        2492,
+        102
+      ],
+      "new_tokens": 7,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "한 밭에 두 개의 지브라",
+      "token_ids": [
+        2,
+        128052,
+        4883,
+        22,
+        122788,
+        668,
+        16039,
+        12700,
+        526,
+        5757,
+        16979,
+        4044,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 199257,
+    "file_name": "COCO_val2014_000000199257.jpg",
+    "greedy": {
+      "caption": "a street sign on a pole",
+      "token_ids": [
+        30522,
+        1037,
+        2395,
+        3696,
+        2006,
+        1037,
+        6536,
+        102
+      ],
+      "new_tokens": 7,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "yellow leaves on a tree",
+      "token_ids": [
+        30522,
+        3756,
+        3727,
+        2006,
+        1037,
+        3392,
+        102
+      ],
+      "new_tokens": 6,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "나무 위에 노란색 잎",
+      "token_ids": [
+        2,
+        128052,
+        5643,
+        7649,
+        11149,
+        668,
+        16480,
+        18841,
+        25943,
+        22,
+        121661,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 202102,
+    "file_name": "COCO_val2014_000000202102.jpg",
+    "greedy": {
+      "caption": "a woman looking out an airplane window",
+      "token_ids": [
+        30522,
+        1037,
+        2450,
+        2559,
+        2041,
+        2019,
+        13297,
+        3332,
+        102
+      ],
+      "new_tokens": 8,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a woman looking out the window of an airplane",
+      "token_ids": [
+        30522,
+        1037,
+        2450,
+        2559,
+        2041,
+        1996,
+        3332,
+        1997,
+        2019,
+        13297,
+        102
+      ],
+      "new_tokens": 10,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "여자가 비행기의 창문을 바라보고 있다.",
+      "token_ids": [
+        2,
+        128052,
+        12520,
+        31981,
+        6413,
+        8726,
+        104567,
+        27826,
+        8452,
+        520,
+        8939,
+        4044,
+        57743,
+        5640,
+        5,
+        2,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 229529,
+    "file_name": "COCO_val2014_000000229529.jpg",
+    "greedy": {
+      "caption": "the water is chop",
+      "token_ids": [
+        30522,
+        1996,
+        2300,
+        2003,
+        24494,
+        102
+      ],
+      "new_tokens": 5,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "the sky is cloudy",
+      "token_ids": [
+        30522,
+        1996,
+        3712,
+        2003,
+        24706,
+        102
+      ],
+      "new_tokens": 5,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "하늘은 구름이",
+      "token_ids": [
+        2,
+        128052,
+        4967,
+        64622,
+        1028,
+        10318,
+        25271,
+        522,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 231991,
+    "file_name": "COCO_val2014_000000231991.jpg",
+    "greedy": {
+      "caption": "a man sitting at a desk with a laptop",
+      "token_ids": [
+        30522,
+        1037,
+        2158,
+        3564,
+        2012,
+        1037,
+        4624,
+        2007,
+        1037,
+        12191,
+        102
+      ],
+      "new_tokens": 10,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a man sitting at a desk working on a laptop",
+      "token_ids": [
+        30522,
+        1037,
+        2158,
+        3564,
+        2012,
+        1037,
+        4624,
+        2551,
+        2006,
+        1037,
+        12191,
+        102
+      ],
+      "new_tokens": 11,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "노트북에서 일하는 책상에 앉아있는 사람",
+      "token_ids": [
+        2,
+        128052,
+        16480,
+        4285,
+        19462,
+        1903,
+        7375,
+        3293,
+        37938,
+        3963,
+        668,
+        22,
+        118031,
+        3816,
+        43790,
+        14179,
+        2
+      ]
+    }
+  },
+  {
+    "image_id": 233079,
+    "file_name": "COCO_val2014_000000233079.jpg",
+    "greedy": {
+      "caption": "a plane is in the background",
+      "token_ids": [
+        30522,
+        1037,
+        4946,
+        2003,
+        1999,
+        1996,
+        4281,
+        102
+      ],
+      "new_tokens": 7,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a plane is in the background",
+      "token_ids": [
+        30522,
+        1037,
+        4946,
+        2003,
+        1999,
+        1996,
+        4281,
+        102
+      ],
+      "new_tokens": 7,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "배경에 있는 비행기",
+      "token_ids": [
+        2,
+        128052,
+        15036,
+        8230,
+        668,
+        5323,
+        6413,
+        8726,
+        1458,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 236049,
+    "file_name": "COCO_val2014_000000236049.jpg",
+    "greedy": {
+      "caption": "a clock on a building",
+      "token_ids": [
+        30522,
+        1037,
+        5119,
+        2006,
+        1037,
+        2311,
+        102
+      ],
+      "new_tokens": 6,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a clock on the side of a building",
+      "token_ids": [
+        30522,
+        1037,
+        5119,
+        2006,
+        1996,
+        2217,
+        1997,
+        1037,
+        2311,
+        102
+      ],
+      "new_tokens": 9,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "건물 옆에 있는 시계",
+      "token_ids": [
+        2,
+        128052,
+        20644,
+        7971,
+        22,
+        118124,
+        668,
+        5323,
+        5448,
+        7152,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 237814,
+    "file_name": "COCO_val2014_000000237814.jpg",
+    "greedy": {
+      "caption": "a baseball player swinging at a ball",
+      "token_ids": [
+        30522,
+        1037,
+        3598,
+        2447,
+        11820,
+        2012,
+        1037,
+        3608,
+        102
+      ],
+      "new_tokens": 8,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a baseball player swinging at a ball",
+      "token_ids": [
+        30522,
+        1037,
+        3598,
+        2447,
+        11820,
+        2012,
+        1037,
+        3608,
+        102
+      ],
+      "new_tokens": 8,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "베이스볼 플레이어가 공을 흔들며",
+      "token_ids": [
+        2,
+        128052,
+        31084,
+        28741,
+        57378,
+        32984,
+        25934,
+        2254,
+        949,
+        7605,
+        520,
+        22,
+        105438,
+        7672,
+        10830,
+        2,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 242365,
+    "file_name": "COCO_val2014_000000242365.jpg",
+    "greedy": {
+      "caption": "a woman in a kitchen preparing food",
+      "token_ids": [
+        30522,
+        1037,
+        2450,
+        1999,
+        1037,
+        3829,
+        8225,
+        2833,
+        102
+      ],
+      "new_tokens": 8,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a woman in a kitchen",
+      "token_ids": [
+        30522,
+        1037,
+        2450,
+        1999,
+        1037,
+        3829,
+        102
+      ],
+      "new_tokens": 6,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "부엌에서 한 여자가",
+      "token_ids": [
+        2,
+        128052,
+        6824,
+        126467,
+        1903,
+        4883,
+        12520,
+        31981,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 244215,
+    "file_name": "COCO_val2014_000000244215.jpg",
+    "greedy": {
+      "caption": "two dogs sitting next to a blue barrel",
+      "token_ids": [
+        30522,
+        2048,
+        6077,
+        3564,
+        2279,
+        2000,
+        1037,
+        2630,
+        8460,
+        102
+      ],
+      "new_tokens": 9,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "two dogs sitting next to a large blue barrel",
+      "token_ids": [
+        30522,
+        2048,
+        6077,
+        3564,
+        2279,
+        2000,
+        1037,
+        2312,
+        2630,
+        8460,
+        102
+      ],
+      "new_tokens": 10,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "두 개가 큰 파란 바일 옆에 앉아있다.",
+      "token_ids": [
+        2,
+        128052,
+        16039,
+        12700,
+        949,
+        26263,
+        16769,
+        18841,
+        8939,
+        2232,
+        22,
+        118124,
+        668,
+        22,
+        118031,
+        3816,
+        31053,
+        2273,
+        5,
+        2
+      ]
+    }
+  },
+  {
+    "image_id": 249643,
+    "file_name": "COCO_val2014_000000249643.jpg",
+    "greedy": {
+      "caption": "a train is stopped at a train station",
+      "token_ids": [
+        30522,
+        1037,
+        3345,
+        2003,
+        3030,
+        2012,
+        1037,
+        3345,
+        2276,
+        102
+      ],
+      "new_tokens": 9,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a black and white photo of a train",
+      "token_ids": [
+        30522,
+        1037,
+        2304,
+        1998,
+        2317,
+        6302,
+        1997,
+        1037,
+        3345,
+        102
+      ],
+      "new_tokens": 9,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "검정색과 흰색 기차 사진",
+      "token_ids": [
+        2,
+        128052,
+        39389,
+        2973,
+        25943,
+        1965,
+        22,
+        122942,
+        25943,
+        6555,
+        8691,
+        30781,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 255631,
+    "file_name": "COCO_val2014_000000255631.jpg",
+    "greedy": {
+      "caption": "two beds in a room",
+      "token_ids": [
+        30522,
+        2048,
+        9705,
+        1999,
+        1037,
+        2282,
+        102
+      ],
+      "new_tokens": 6,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "two beds in a hotel room",
+      "token_ids": [
+        30522,
+        2048,
+        9705,
+        1999,
+        1037,
+        3309,
+        2282,
+        102
+      ],
+      "new_tokens": 7,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "호텔 방에 두 개의 침대",
+      "token_ids": [
+        2,
+        128052,
+        19932,
+        17588,
+        668,
+        16039,
+        12700,
+        526,
+        71025,
+        2993,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 256180,
+    "file_name": "COCO_val2014_000000256180.jpg",
+    "greedy": {
+      "caption": "a living room with a television and a small table",
+      "token_ids": [
+        30522,
+        1037,
+        2542,
+        2282,
+        2007,
+        1037,
+        2547,
+        1998,
+        1037,
+        2235,
+        2795,
+        102
+      ],
+      "new_tokens": 11,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a living room filled with furniture and a television",
+      "token_ids": [
+        30522,
+        1037,
+        2542,
+        2282,
+        3561,
+        2007,
+        7390,
+        1998,
+        1037,
+        2547,
+        102
+      ],
+      "new_tokens": 10,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "객실은 가구와 TV로 가득 차 있습니다.",
+      "token_ids": [
+        2,
+        128052,
+        112481,
+        1028,
+        4602,
+        4467,
+        2992,
+        3278,
+        1406,
+        4602,
+        33220,
+        13967,
+        6494,
+        5,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 256250,
+    "file_name": "COCO_val2014_000000256250.jpg",
+    "greedy": {
+      "caption": "a gife standing in a field with a gife in the background",
+      "token_ids": [
+        30522,
+        1037,
+        21025,
+        7959,
+        3061,
+        1999,
+        1037,
+        2492,
+        2007,
+        1037,
+        21025,
+        7959,
+        1999,
+        1996,
+        4281,
+        102
+      ],
+      "new_tokens": 15,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a gife standing in the middle of a field",
+      "token_ids": [
+        30522,
+        1037,
+        21025,
+        7959,
+        3061,
+        1999,
+        1996,
+        2690,
+        1997,
+        1037,
+        2492,
+        102
+      ],
+      "new_tokens": 11,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "한 밭의 한가운데에 서 있는 고양이",
+      "token_ids": [
+        2,
+        128052,
+        4883,
+        22,
+        122788,
+        526,
+        4883,
+        949,
+        124597,
+        668,
+        15250,
+        5323,
+        7556,
+        10948,
+        522,
+        2,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 285645,
+    "file_name": "COCO_val2014_000000285645.jpg",
+    "greedy": {
+      "caption": "a man on a snowboard",
+      "token_ids": [
+        30522,
+        1037,
+        2158,
+        2006,
+        1037,
+        4586,
+        6277,
+        102
+      ],
+      "new_tokens": 7,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a man on a snowboard",
+      "token_ids": [
+        30522,
+        1037,
+        2158,
+        2006,
+        1037,
+        4586,
+        6277,
+        102
+      ],
+      "new_tokens": 7,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "스노우보드에 있는 남자",
+      "token_ids": [
+        2,
+        128052,
+        8938,
+        17638,
+        8765,
+        4975,
+        3837,
+        668,
+        5323,
+        96754,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 288491,
+    "file_name": "COCO_val2014_000000288491.jpg",
+    "greedy": {
+      "caption": "a man surfing in the ocean",
+      "token_ids": [
+        30522,
+        1037,
+        2158,
+        19967,
+        1999,
+        1996,
+        4153,
+        102
+      ],
+      "new_tokens": 7,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a man on a surfboard riding a wave",
+      "token_ids": [
+        30522,
+        1037,
+        2158,
+        2006,
+        1037,
+        14175,
+        6277,
+        5559,
+        1037,
+        4400,
+        102
+      ],
+      "new_tokens": 10,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "바람을 타고 서핑 보드에 앉아있는 사람",
+      "token_ids": [
+        2,
+        128052,
+        8939,
+        31148,
+        520,
+        23108,
+        1357,
+        15250,
+        37617,
+        4892,
+        3837,
+        668,
+        22,
+        118031,
+        3816,
+        43790,
+        14179,
+        2,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 302767,
+    "file_name": "COCO_val2014_000000302767.jpg",
+    "greedy": {
+      "caption": "a man on a surf board",
+      "token_ids": [
+        30522,
+        1037,
+        2158,
+        2006,
+        1037,
+        14175,
+        2604,
+        102
+      ],
+      "new_tokens": 7,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a man on a surf board",
+      "token_ids": [
+        30522,
+        1037,
+        2158,
+        2006,
+        1037,
+        14175,
+        2604,
+        102
+      ],
+      "new_tokens": 7,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "서핑 보드에 앉아있는 사람",
+      "token_ids": [
+        2,
+        128052,
+        15250,
+        37617,
+        4892,
+        3837,
+        668,
+        22,
+        118031,
+        3816,
+        43790,
+        14179,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 312192,
+    "file_name": "COCO_val2014_000000312192.jpg",
+    "greedy": {
+      "caption": "a pizza on a plate",
+      "token_ids": [
+        30522,
+        1037,
+        10733,
+        2006,
+        1037,
+        5127,
+        102
+      ],
+      "new_tokens": 6,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a pizza on a plate",
+      "token_ids": [
+        30522,
+        1037,
+        10733,
+        2006,
+        1037,
+        5127,
+        102
+      ],
+      "new_tokens": 6,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "식탁에 있는 피자",
+      "token_ids": [
+        2,
+        128052,
+        26912,
+        64254,
+        668,
+        5323,
+        22356,
+        2097,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 315501,
+    "file_name": "COCO_val2014_000000315501.jpg",
+    "greedy": {
+      "caption": "a black car",
+      "token_ids": [
+        30522,
+        1037,
+        2304,
+        2482,
+        102
+      ],
+      "new_tokens": 4,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "the car is black",
+      "token_ids": [
+        30522,
+        1996,
+        2482,
+        2003,
+        2304,
+        102
+      ],
+      "new_tokens": 5,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "차는 검은색",
+      "token_ids": [
+        2,
+        128052,
+        13967,
+        1029,
+        39389,
+        1028,
+        25943,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 318099,
+    "file_name": "COCO_val2014_000000318099.jpg",
+    "greedy": {
+      "caption": "a bird nest in a plant",
+      "token_ids": [
+        30522,
+        1037,
+        4743,
+        9089,
+        1999,
+        1037,
+        3269,
+        102
+      ],
+      "new_tokens": 7,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a baby bird is in the nest of its mother",
+      "token_ids": [
+        30522,
+        1037,
+        3336,
+        4743,
+        2003,
+        1999,
+        1996,
+        9089,
+        1997,
+        2049,
+        2388,
+        102
+      ],
+      "new_tokens": 11,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "아기 새가 어머니의 둥지에 있다.",
+      "token_ids": [
+        2,
+        128052,
+        5976,
+        1458,
+        27713,
+        949,
+        11902,
+        78616,
+        526,
+        22,
+        118794,
+        1452,
+        668,
+        5640,
+        5,
+        2,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 348730,
+    "file_name": "COCO_val2014_000000348730.jpg",
+    "greedy": {
+      "caption": "a man riding a skateboard down a street",
+      "token_ids": [
+        30522,
+        1037,
+        2158,
+        5559,
+        1037,
+        17260,
+        6277,
+        2091,
+        1037,
+        2395,
+        102
+      ],
+      "new_tokens": 10,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a man riding a skateboard down a street",
+      "token_ids": [
+        30522,
+        1037,
+        2158,
+        5559,
+        1037,
+        17260,
+        6277,
+        2091,
+        1037,
+        2395,
+        102
+      ],
+      "new_tokens": 10,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "거리에서 스케이트 보드를 타고 다니는 남자",
+      "token_ids": [
+        2,
+        128052,
+        10435,
+        1509,
+        1903,
+        8938,
+        55792,
+        36342,
+        4892,
+        98482,
+        23108,
+        1357,
+        7220,
+        5158,
+        1029,
+        96754,
+        2,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 370819,
+    "file_name": "COCO_val2014_000000370819.jpg",
+    "greedy": {
+      "caption": "a tree in a pot",
+      "token_ids": [
+        30522,
+        1037,
+        3392,
+        1999,
+        1037,
+        8962,
+        102
+      ],
+      "new_tokens": 6,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a plant in a pot",
+      "token_ids": [
+        30522,
+        1037,
+        3269,
+        1999,
+        1037,
+        8962,
+        102
+      ],
+      "new_tokens": 6,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "한 냄비에 있는 식물",
+      "token_ids": [
+        2,
+        128052,
+        4883,
+        22,
+        121373,
+        5946,
+        668,
+        5323,
+        26912,
+        7971,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 374083,
+    "file_name": "COCO_val2014_000000374083.jpg",
+    "greedy": {
+      "caption": "a man and a little girl are sitting at a table with a cake",
+      "token_ids": [
+        30522,
+        1037,
+        2158,
+        1998,
+        1037,
+        2210,
+        2611,
+        2024,
+        3564,
+        2012,
+        1037,
+        2795,
+        2007,
+        1037,
+        9850,
+        102
+      ],
+      "new_tokens": 15,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a man and a little girl sitting at a kitchen counter",
+      "token_ids": [
+        30522,
+        1037,
+        2158,
+        1998,
+        1037,
+        2210,
+        2611,
+        3564,
+        2012,
+        1037,
+        3829,
+        4675,
+        102
+      ],
+      "new_tokens": 12,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "남자와 소녀가 부엌 옆에 앉아있다.",
+      "token_ids": [
+        2,
+        128052,
+        96754,
+        2992,
+        6864,
+        27472,
+        949,
+        6824,
+        126467,
+        22,
+        118124,
+        668,
+        22,
+        118031,
+        3816,
+        31053,
+        2273,
+        5,
+        2
+      ]
+    }
+  },
+  {
+    "image_id": 378545,
+    "file_name": "COCO_val2014_000000378545.jpg",
+    "greedy": {
+      "caption": "a clock on a pole",
+      "token_ids": [
+        30522,
+        1037,
+        5119,
+        2006,
+        1037,
+        6536,
+        102
+      ],
+      "new_tokens": 6,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a black and gold clock",
+      "token_ids": [
+        30522,
+        1037,
+        2304,
+        1998,
+        2751,
+        5119,
+        102
+      ],
+      "new_tokens": 6,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "블랙과 골드 시계",
+      "token_ids": [
+        2,
+        128052,
+        43084,
+        62252,
+        1965,
+        56217,
+        3837,
+        5448,
+        7152,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 381123,
+    "file_name": "COCO_val2014_000000381123.jpg",
+    "greedy": {
+      "caption": "a group of people standing on a beach with kays",
+      "token_ids": [
+        30522,
+        1037,
+        2177,
+        1997,
+        2111,
+        3061,
+        2006,
+        1037,
+        3509,
+        2007,
+        10905,
+        2015,
+        102
+      ],
+      "new_tokens": 12,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a group of people standing on a beach with kays",
+      "token_ids": [
+        30522,
+        1037,
+        2177,
+        1997,
+        2111,
+        3061,
+        2006,
+        1037,
+        3509,
+        2007,
+        10905,
+        2015,
+        102
+      ],
+      "new_tokens": 12,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "사람들의 한 그룹이 바닷가에 앉아있다.",
+      "token_ids": [
+        2,
+        128052,
+        14179,
+        16909,
+        4883,
+        3515,
+        63105,
+        522,
+        8939,
+        90915,
+        949,
+        668,
+        22,
+        118031,
+        3816,
+        31053,
+        2273,
+        5,
+        2
+      ]
+    }
+  },
+  {
+    "image_id": 390759,
+    "file_name": "COCO_val2014_000000390759.jpg",
+    "greedy": {
+      "caption": "the cows are eating",
+      "token_ids": [
+        30522,
+        1996,
+        17188,
+        2024,
+        5983,
+        102
+      ],
+      "new_tokens": 5,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "the cows are eating",
+      "token_ids": [
+        30522,
+        1996,
+        17188,
+        2024,
+        5983,
+        102
+      ],
+      "new_tokens": 5,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "염소들이 먹고 있다.",
+      "token_ids": [
+        2,
+        128052,
+        22,
+        47408,
+        3889,
+        10678,
+        30171,
+        1357,
+        5640,
+        5,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 401862,
+    "file_name": "COCO_val2014_000000401862.jpg",
+    "greedy": {
+      "caption": "a food truck",
+      "token_ids": [
+        30522,
+        1037,
+        2833,
+        4744,
+        102
+      ],
+      "new_tokens": 4,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a group of people standing around a food truck",
+      "token_ids": [
+        30522,
+        1037,
+        2177,
+        1997,
+        2111,
+        3061,
+        2105,
+        1037,
+        2833,
+        4744,
+        102
+      ],
+      "new_tokens": 10,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "음식 트럭 주위에 서있는 사람들의 그룹",
+      "token_ids": [
+        2,
+        128052,
+        74351,
+        27164,
+        86694,
+        4218,
+        7139,
+        668,
+        15250,
+        43790,
+        14179,
+        16909,
+        3515,
+        63105,
+        2,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 406377,
+    "file_name": "COCO_val2014_000000406377.jpg",
+    "greedy": {
+      "caption": "a train on a bridge",
+      "token_ids": [
+        30522,
+        1037,
+        3345,
+        2006,
+        1037,
+        2958,
+        102
+      ],
+      "new_tokens": 6,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a train on a bridge",
+      "token_ids": [
+        30522,
+        1037,
+        3345,
+        2006,
+        1037,
+        2958,
+        102
+      ],
+      "new_tokens": 6,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "기차는 다리 위에",
+      "token_ids": [
+        2,
+        128052,
+        6555,
+        8691,
+        1029,
+        7220,
+        1509,
+        11149,
+        668,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 406976,
+    "file_name": "COCO_val2014_000000406976.jpg",
+    "greedy": {
+      "caption": "a dog and a cat sleeping on a couch",
+      "token_ids": [
+        30522,
+        1037,
+        3899,
+        1998,
+        1037,
+        4937,
+        5777,
+        2006,
+        1037,
+        6411,
+        102
+      ],
+      "new_tokens": 10,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "two dogs sleeping on a couch",
+      "token_ids": [
+        30522,
+        2048,
+        6077,
+        5777,
+        2006,
+        1037,
+        6411,
+        102
+      ],
+      "new_tokens": 7,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "소파에 누워있는 두 개",
+      "token_ids": [
+        2,
+        128052,
+        6864,
+        14637,
+        668,
+        42365,
+        17835,
+        43790,
+        16039,
+        12700,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 420579,
+    "file_name": "COCO_val2014_000000420579.jpg",
+    "greedy": {
+      "caption": "a man on skis going down a hill",
+      "token_ids": [
+        30522,
+        1037,
+        2158,
+        2006,
+        8301,
+        2015,
+        2183,
+        2091,
+        1037,
+        2940,
+        102
+      ],
+      "new_tokens": 10,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a man on a snowboard in the snow",
+      "token_ids": [
+        30522,
+        1037,
+        2158,
+        2006,
+        1037,
+        4586,
+        6277,
+        1999,
+        1996,
+        4586,
+        102
+      ],
+      "new_tokens": 10,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "스노우보드에 앉아있는 남자",
+      "token_ids": [
+        2,
+        128052,
+        8938,
+        17638,
+        8765,
+        4975,
+        3837,
+        668,
+        22,
+        118031,
+        3816,
+        43790,
+        96754,
+        2,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 421979,
+    "file_name": "COCO_val2014_000000421979.jpg",
+    "greedy": {
+      "caption": "a display of a tree with a bunch of flowers",
+      "token_ids": [
+        30522,
+        1037,
+        4653,
+        1997,
+        1037,
+        3392,
+        2007,
+        1037,
+        9129,
+        1997,
+        4870,
+        102
+      ],
+      "new_tokens": 11,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a display with a bunch of flowers in it",
+      "token_ids": [
+        30522,
+        1037,
+        4653,
+        2007,
+        1037,
+        9129,
+        1997,
+        4870,
+        1999,
+        2009,
+        102
+      ],
+      "new_tokens": 10,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "그 안에 꽃이 쌓여있는 디스플레이",
+      "token_ids": [
+        2,
+        128052,
+        3515,
+        9197,
+        668,
+        110364,
+        522,
+        22,
+        120028,
+        8585,
+        43790,
+        34126,
+        2312,
+        19877,
+        25934,
+        2,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 425100,
+    "file_name": "COCO_val2014_000000425100.jpg",
+    "greedy": {
+      "caption": "a man in a red shirt",
+      "token_ids": [
+        30522,
+        1037,
+        2158,
+        1999,
+        1037,
+        2417,
+        3797,
+        102
+      ],
+      "new_tokens": 7,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a group of young men playing a game of frc",
+      "token_ids": [
+        30522,
+        1037,
+        2177,
+        1997,
+        2402,
+        2273,
+        2652,
+        1037,
+        2208,
+        1997,
+        10424,
+        2278,
+        102
+      ],
+      "new_tokens": 12,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "그룹의 젊은이들이 FRC 게임을합니다.",
+      "token_ids": [
+        2,
+        128052,
+        3515,
+        63105,
+        526,
+        22,
+        116218,
+        1028,
+        522,
+        10678,
+        25024,
+        247,
+        36135,
+        520,
+        12013,
+        5,
+        2
+      ]
+    }
+  },
+  {
+    "image_id": 435922,
+    "file_name": "COCO_val2014_000000435922.jpg",
+    "greedy": {
+      "caption": "a cat sitting on a desk with papers and a laptop",
+      "token_ids": [
+        30522,
+        1037,
+        4937,
+        3564,
+        2006,
+        1037,
+        4624,
+        2007,
+        4981,
+        1998,
+        1037,
+        12191,
+        102
+      ],
+      "new_tokens": 12,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a cat sitting on top of a desk",
+      "token_ids": [
+        30522,
+        1037,
+        4937,
+        3564,
+        2006,
+        2327,
+        1997,
+        1037,
+        4624,
+        102
+      ],
+      "new_tokens": 9,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "책상 위에 앉아있는 고양이",
+      "token_ids": [
+        2,
+        128052,
+        37938,
+        3963,
+        11149,
+        668,
+        22,
+        118031,
+        3816,
+        43790,
+        7556,
+        10948,
+        522,
+        2,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 439774,
+    "file_name": "COCO_val2014_000000439774.jpg",
+    "greedy": {
+      "caption": "a man and two children sitting on a couch",
+      "token_ids": [
+        30522,
+        1037,
+        2158,
+        1998,
+        2048,
+        2336,
+        3564,
+        2006,
+        1037,
+        6411,
+        102
+      ],
+      "new_tokens": 10,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a man sitting on a couch",
+      "token_ids": [
+        30522,
+        1037,
+        2158,
+        3564,
+        2006,
+        1037,
+        6411,
+        102
+      ],
+      "new_tokens": 7,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "소파에 앉아 있는 남자",
+      "token_ids": [
+        2,
+        128052,
+        6864,
+        14637,
+        668,
+        22,
+        118031,
+        3816,
+        5323,
+        96754,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 448626,
+    "file_name": "COCO_val2014_000000448626.jpg",
+    "greedy": {
+      "caption": "a cloudy blue sky",
+      "token_ids": [
+        30522,
+        1037,
+        24706,
+        2630,
+        3712,
+        102
+      ],
+      "new_tokens": 5,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "the clouds are white",
+      "token_ids": [
+        30522,
+        1996,
+        8044,
+        2024,
+        2317,
+        102
+      ],
+      "new_tokens": 5,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "구름은 흰색",
+      "token_ids": [
+        2,
+        128052,
+        10318,
+        25271,
+        1028,
+        22,
+        122942,
+        25943,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 449403,
+    "file_name": "COCO_val2014_000000449403.jpg",
+    "greedy": {
+      "caption": "a bus on the road",
+      "token_ids": [
+        30522,
+        1037,
+        3902,
+        2006,
+        1996,
+        2346,
+        102
+      ],
+      "new_tokens": 6,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a bus on the road",
+      "token_ids": [
+        30522,
+        1037,
+        3902,
+        2006,
+        1996,
+        2346,
+        102
+      ],
+      "new_tokens": 6,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "도로에 버스",
+      "token_ids": [
+        2,
+        128052,
+        10746,
+        1406,
+        668,
+        27867,
+        2312,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 451972,
+    "file_name": "COCO_val2014_000000451972.jpg",
+    "greedy": {
+      "caption": "a fire truck with santa clauss on the back",
+      "token_ids": [
+        30522,
+        1037,
+        2543,
+        4744,
+        2007,
+        4203,
+        19118,
+        2015,
+        2006,
+        1996,
+        2067,
+        102
+      ],
+      "new_tokens": 11,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a red fire truck",
+      "token_ids": [
+        30522,
+        1037,
+        2417,
+        2543,
+        4744,
+        102
+      ],
+      "new_tokens": 5,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "빨간 화재 트럭",
+      "token_ids": [
+        2,
+        128052,
+        92061,
+        9750,
+        17727,
+        8380,
+        27164,
+        86694,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 452113,
+    "file_name": "COCO_val2014_000000452113.jpg",
+    "greedy": {
+      "caption": "a group of people standing around a counter",
+      "token_ids": [
+        30522,
+        1037,
+        2177,
+        1997,
+        2111,
+        3061,
+        2105,
+        1037,
+        4675,
+        102
+      ],
+      "new_tokens": 9,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a group of people standing around a counter",
+      "token_ids": [
+        30522,
+        1037,
+        2177,
+        1997,
+        2111,
+        3061,
+        2105,
+        1037,
+        4675,
+        102
+      ],
+      "new_tokens": 9,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "한 좌석 주위에 서있는 사람들의 그룹",
+      "token_ids": [
+        2,
+        128052,
+        4883,
+        22,
+        56428,
+        17175,
+        4218,
+        7139,
+        668,
+        15250,
+        43790,
+        14179,
+        16909,
+        3515,
+        63105,
+        2
+      ]
+    }
+  },
+  {
+    "image_id": 469192,
+    "file_name": "COCO_val2014_000000469192.jpg",
+    "greedy": {
+      "caption": "a truck in a field",
+      "token_ids": [
+        30522,
+        1037,
+        4744,
+        1999,
+        1037,
+        2492,
+        102
+      ],
+      "new_tokens": 6,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "the truck is white",
+      "token_ids": [
+        30522,
+        1996,
+        4744,
+        2003,
+        2317,
+        102
+      ],
+      "new_tokens": 5,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "트럭은 흰색",
+      "token_ids": [
+        2,
+        128052,
+        27164,
+        86694,
+        1028,
+        22,
+        122942,
+        25943,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 479030,
+    "file_name": "COCO_val2014_000000479030.jpg",
+    "greedy": {
+      "caption": "a train on the tracks",
+      "token_ids": [
+        30522,
+        1037,
+        3345,
+        2006,
+        1996,
+        3162,
+        102
+      ],
+      "new_tokens": 6,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a train on the tracks",
+      "token_ids": [
+        30522,
+        1037,
+        3345,
+        2006,
+        1996,
+        3162,
+        102
+      ],
+      "new_tokens": 6,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "트랙에 있는 기차",
+      "token_ids": [
+        2,
+        128052,
+        27164,
+        62252,
+        668,
+        5323,
+        6555,
+        8691,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 484434,
+    "file_name": "COCO_val2014_000000484434.jpg",
+    "greedy": {
+      "caption": "a crowd of people",
+      "token_ids": [
+        30522,
+        1037,
+        4306,
+        1997,
+        2111,
+        102
+      ],
+      "new_tokens": 5,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a group of people standing in the rain",
+      "token_ids": [
+        30522,
+        1037,
+        2177,
+        1997,
+        2111,
+        3061,
+        1999,
+        1996,
+        4542,
+        102
+      ],
+      "new_tokens": 9,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "비 속에 서 있는 사람들의 집단",
+      "token_ids": [
+        2,
+        128052,
+        6413,
+        24188,
+        668,
+        15250,
+        5323,
+        14179,
+        16909,
+        21183,
+        6516,
+        2,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 494578,
+    "file_name": "COCO_val2014_000000494578.jpg",
+    "greedy": {
+      "caption": "a group of birds",
+      "token_ids": [
+        30522,
+        1037,
+        2177,
+        1997,
+        5055,
+        102
+      ],
+      "new_tokens": 5,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "the water is calm",
+      "token_ids": [
+        30522,
+        1996,
+        2300,
+        2003,
+        5475,
+        102
+      ],
+      "new_tokens": 5,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "물이 조용하다",
+      "token_ids": [
+        2,
+        128052,
+        21348,
+        522,
+        8616,
+        5597,
+        22267,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 506489,
+    "file_name": "COCO_val2014_000000506489.jpg",
+    "greedy": {
+      "caption": "a person walking across a street in front of a store",
+      "token_ids": [
+        30522,
+        1037,
+        2711,
+        3788,
+        2408,
+        1037,
+        2395,
+        1999,
+        2392,
+        1997,
+        1037,
+        3573,
+        102
+      ],
+      "new_tokens": 12,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a person crossing the street in front of a store",
+      "token_ids": [
+        30522,
+        1037,
+        2711,
+        5153,
+        1996,
+        2395,
+        1999,
+        2392,
+        1997,
+        1037,
+        3573,
+        102
+      ],
+      "new_tokens": 11,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "가게 앞에서 거리를 건너는 사람",
+      "token_ids": [
+        2,
+        128052,
+        4602,
+        5424,
+        34558,
+        1903,
+        10435,
+        32387,
+        20644,
+        28224,
+        1029,
+        14179,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 513611,
+    "file_name": "COCO_val2014_000000513611.jpg",
+    "greedy": {
+      "caption": "a field of green grass",
+      "token_ids": [
+        30522,
+        1037,
+        2492,
+        1997,
+        2665,
+        5568,
+        102
+      ],
+      "new_tokens": 6,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a field of green grass",
+      "token_ids": [
+        30522,
+        1037,
+        2492,
+        1997,
+        2665,
+        5568,
+        102
+      ],
+      "new_tokens": 6,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "녹색 잔디의 필드",
+      "token_ids": [
+        2,
+        128052,
+        22,
+        92175,
+        25943,
+        22,
+        74535,
+        14375,
+        526,
+        45321,
+        3837,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 515540,
+    "file_name": "COCO_val2014_000000515540.jpg",
+    "greedy": {
+      "caption": "a man in a blue shirt",
+      "token_ids": [
+        30522,
+        1037,
+        2158,
+        1999,
+        1037,
+        2630,
+        3797,
+        102
+      ],
+      "new_tokens": 7,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "the man is wearing a blue shirt",
+      "token_ids": [
+        30522,
+        1996,
+        2158,
+        2003,
+        4147,
+        1037,
+        2630,
+        3797,
+        102
+      ],
+      "new_tokens": 8,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "남자는 파란 셔츠를 입고 있다.",
+      "token_ids": [
+        2,
+        128052,
+        13083,
+        38613,
+        16769,
+        18841,
+        22,
+        50834,
+        52433,
+        1261,
+        15563,
+        1357,
+        5640,
+        5,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 520871,
+    "file_name": "COCO_val2014_000000520871.jpg",
+    "greedy": {
+      "caption": "a pizza on a plate",
+      "token_ids": [
+        30522,
+        1037,
+        10733,
+        2006,
+        1037,
+        5127,
+        102
+      ],
+      "new_tokens": 6,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a white plate with a pizza on it",
+      "token_ids": [
+        30522,
+        1037,
+        2317,
+        5127,
+        2007,
+        1037,
+        10733,
+        2006,
+        2009,
+        102
+      ],
+      "new_tokens": 9,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "그 위에 피자와 함께 흰 접시",
+      "token_ids": [
+        2,
+        128052,
+        3515,
+        11149,
+        668,
+        22356,
+        2097,
+        2992,
+        17893,
+        22,
+        122942,
+        35044,
+        2129,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 528984,
+    "file_name": "COCO_val2014_000000528984.jpg",
+    "greedy": {
+      "caption": "a group of people standing on a snow covered slope",
+      "token_ids": [
+        30522,
+        1037,
+        2177,
+        1997,
+        2111,
+        3061,
+        2006,
+        1037,
+        4586,
+        3139,
+        9663,
+        102
+      ],
+      "new_tokens": 11,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a group of people standing on top of a snow covered slope",
+      "token_ids": [
+        30522,
+        1037,
+        2177,
+        1997,
+        2111,
+        3061,
+        2006,
+        2327,
+        1997,
+        1037,
+        4586,
+        3139,
+        9663,
+        102
+      ],
+      "new_tokens": 13,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "눈이 덮여있는 벽돌 위에 서있는 사람들의 그룹",
+      "token_ids": [
+        2,
+        128052,
+        33155,
+        522,
+        22,
+        122435,
+        8585,
+        43790,
+        22,
+        51876,
+        65162,
+        11149,
+        668,
+        15250,
+        43790,
+        14179,
+        16909,
+        3515,
+        63105,
+        2
+      ]
+    }
+  },
+  {
+    "image_id": 532580,
+    "file_name": "COCO_val2014_000000532580.jpg",
+    "greedy": {
+      "caption": "a train on the tracks",
+      "token_ids": [
+        30522,
+        1037,
+        3345,
+        2006,
+        1996,
+        3162,
+        102
+      ],
+      "new_tokens": 6,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a train on the tracks",
+      "token_ids": [
+        30522,
+        1037,
+        3345,
+        2006,
+        1996,
+        3162,
+        102
+      ],
+      "new_tokens": 6,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "트랙에 있는 기차",
+      "token_ids": [
+        2,
+        128052,
+        27164,
+        62252,
+        668,
+        5323,
+        6555,
+        8691,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 538976,
+    "file_name": "COCO_val2014_000000538976.jpg",
+    "greedy": {
+      "caption": "a bird sitting on a window sie",
+      "token_ids": [
+        30522,
+        1037,
+        4743,
+        3564,
+        2006,
+        1037,
+        3332,
+        9033,
+        2063,
+        102
+      ],
+      "new_tokens": 9,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a bird sitting on a window sie",
+      "token_ids": [
+        30522,
+        1037,
+        4743,
+        3564,
+        2006,
+        1037,
+        3332,
+        9033,
+        2063,
+        102
+      ],
+      "new_tokens": 9,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "창문 위에 앉아 있는 새",
+      "token_ids": [
+        2,
+        128052,
+        27826,
+        8452,
+        11149,
+        668,
+        22,
+        118031,
+        3816,
+        5323,
+        27713,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 540860,
+    "file_name": "COCO_val2014_000000540860.jpg",
+    "greedy": {
+      "caption": "a green car",
+      "token_ids": [
+        30522,
+        1037,
+        2665,
+        2482,
+        102
+      ],
+      "new_tokens": 4,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a green and black car",
+      "token_ids": [
+        30522,
+        1037,
+        2665,
+        1998,
+        2304,
+        2482,
+        102
+      ],
+      "new_tokens": 6,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "녹색과 검은 차",
+      "token_ids": [
+        2,
+        128052,
+        22,
+        92175,
+        25943,
+        1965,
+        39389,
+        1028,
+        13967,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 541587,
+    "file_name": "COCO_val2014_000000541587.jpg",
+    "greedy": {
+      "caption": "a vase of flowers",
+      "token_ids": [
+        30522,
+        1037,
+        18781,
+        1997,
+        4870,
+        102
+      ],
+      "new_tokens": 5,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "flowers in a vase",
+      "token_ids": [
+        30522,
+        4870,
+        1999,
+        1037,
+        18781,
+        102
+      ],
+      "new_tokens": 5,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "꽃은 냄비에",
+      "token_ids": [
+        2,
+        128052,
+        110364,
+        1028,
+        22,
+        121373,
+        5946,
+        668,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 553879,
+    "file_name": "COCO_val2014_000000553879.jpg",
+    "greedy": {
+      "caption": "a busy highway with many cars and trucks",
+      "token_ids": [
+        30522,
+        1037,
+        5697,
+        3307,
+        2007,
+        2116,
+        3765,
+        1998,
+        9322,
+        102
+      ],
+      "new_tokens": 9,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a bunch of cars driving down a street",
+      "token_ids": [
+        30522,
+        1037,
+        9129,
+        1997,
+        3765,
+        4439,
+        2091,
+        1037,
+        2395,
+        102
+      ],
+      "new_tokens": 9,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "한 거리로 내려가는 차량들이 많다.",
+      "token_ids": [
+        2,
+        128052,
+        4883,
+        10435,
+        1509,
+        1406,
+        7835,
+        9068,
+        45680,
+        13967,
+        20099,
+        10678,
+        37555,
+        2273,
+        5,
+        2,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 553990,
+    "file_name": "COCO_val2014_000000553990.jpg",
+    "greedy": {
+      "caption": "a woman jumping a horse over an obstacle",
+      "token_ids": [
+        30522,
+        1037,
+        2450,
+        8660,
+        1037,
+        3586,
+        2058,
+        2019,
+        18355,
+        102
+      ],
+      "new_tokens": 9,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a person jumping a horse over an obstacle",
+      "token_ids": [
+        30522,
+        1037,
+        2711,
+        8660,
+        1037,
+        3586,
+        2058,
+        2019,
+        18355,
+        102
+      ],
+      "new_tokens": 9,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "사람은 한 장애물 위에 말을 뛰어 넘는다.",
+      "token_ids": [
+        2,
+        128052,
+        14179,
+        1028,
+        4883,
+        10534,
+        32985,
+        7971,
+        11149,
+        668,
+        10127,
+        520,
+        108895,
+        2254,
+        40343,
+        87337,
+        5,
+        2
+      ]
+    }
+  },
+  {
+    "image_id": 554595,
+    "file_name": "COCO_val2014_000000554595.jpg",
+    "greedy": {
+      "caption": "a man laying on the beach",
+      "token_ids": [
+        30522,
+        1037,
+        2158,
+        10201,
+        2006,
+        1996,
+        3509,
+        102
+      ],
+      "new_tokens": 7,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a man laying on the beach with a surfboard",
+      "token_ids": [
+        30522,
+        1037,
+        2158,
+        10201,
+        2006,
+        1996,
+        3509,
+        2007,
+        1037,
+        14175,
+        6277,
+        102
+      ],
+      "new_tokens": 11,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "해변에 누워있는 남자가 서핑 보드와 함께",
+      "token_ids": [
+        2,
+        128052,
+        8875,
+        41609,
+        668,
+        42365,
+        17835,
+        43790,
+        13083,
+        31981,
+        15250,
+        37617,
+        4892,
+        3837,
+        2992,
+        17893,
+        2,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 558137,
+    "file_name": "COCO_val2014_000000558137.jpg",
+    "greedy": {
+      "caption": "a man is serving food at a food truck",
+      "token_ids": [
+        30522,
+        1037,
+        2158,
+        2003,
+        3529,
+        2833,
+        2012,
+        1037,
+        2833,
+        4744,
+        102
+      ],
+      "new_tokens": 10,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "man wearing a black jacket",
+      "token_ids": [
+        30522,
+        2158,
+        4147,
+        1037,
+        2304,
+        6598,
+        102
+      ],
+      "new_tokens": 6,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "검은 재킷을 입은 남자",
+      "token_ids": [
+        2,
+        128052,
+        39389,
+        1028,
+        13021,
+        123378,
+        520,
+        15563,
+        1028,
+        96754,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 563311,
+    "file_name": "COCO_val2014_000000563311.jpg",
+    "greedy": {
+      "caption": "a clock tower with a clock on top of it",
+      "token_ids": [
+        30522,
+        1037,
+        5119,
+        3578,
+        2007,
+        1037,
+        5119,
+        2006,
+        2327,
+        1997,
+        2009,
+        102
+      ],
+      "new_tokens": 11,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a tower with a clock on top of it",
+      "token_ids": [
+        30522,
+        1037,
+        3578,
+        2007,
+        1037,
+        5119,
+        2006,
+        2327,
+        1997,
+        2009,
+        102
+      ],
+      "new_tokens": 10,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "그 위에 시계가 있는 타워",
+      "token_ids": [
+        2,
+        128052,
+        3515,
+        11149,
+        668,
+        5448,
+        7152,
+        949,
+        5323,
+        23108,
+        17835,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 570736,
+    "file_name": "COCO_val2014_000000570736.jpg",
+    "greedy": {
+      "caption": "a bathroom with a toilet, sink, and bathtub",
+      "token_ids": [
+        30522,
+        1037,
+        5723,
+        2007,
+        1037,
+        11848,
+        1010,
+        7752,
+        1010,
+        1998,
+        7198,
+        28251,
+        102
+      ],
+      "new_tokens": 12,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a bathroom with a toilet, sink, and bathtub",
+      "token_ids": [
+        30522,
+        1037,
+        5723,
+        2007,
+        1037,
+        11848,
+        1010,
+        7752,
+        1010,
+        1998,
+        7198,
+        28251,
+        102
+      ],
+      "new_tokens": 12,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "화장실과 화장실, 싱크 및 욕실",
+      "token_ids": [
+        2,
+        128052,
+        17727,
+        2982,
+        8537,
+        1965,
+        17727,
+        2982,
+        8537,
+        4,
+        22,
+        60040,
+        10362,
+        5893,
+        84277,
+        8537,
+        2,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 571821,
+    "file_name": "COCO_val2014_000000571821.jpg",
+    "greedy": {
+      "caption": "two girls standing in front of a double decker bus",
+      "token_ids": [
+        30522,
+        2048,
+        3057,
+        3061,
+        1999,
+        2392,
+        1997,
+        1037,
+        3313,
+        20946,
+        3902,
+        102
+      ],
+      "new_tokens": 11,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a double decker bus",
+      "token_ids": [
+        30522,
+        1037,
+        3313,
+        20946,
+        3902,
+        102
+      ],
+      "new_tokens": 5,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "더블 데커 버스",
+      "token_ids": [
+        2,
+        128052,
+        9910,
+        26821,
+        28919,
+        35051,
+        27867,
+        2312,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 572182,
+    "file_name": "COCO_val2014_000000572182.jpg",
+    "greedy": {
+      "caption": "a man riding a skateboard down a street",
+      "token_ids": [
+        30522,
+        1037,
+        2158,
+        5559,
+        1037,
+        17260,
+        6277,
+        2091,
+        1037,
+        2395,
+        102
+      ],
+      "new_tokens": 10,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a man riding a skateboard down a street",
+      "token_ids": [
+        30522,
+        1037,
+        2158,
+        5559,
+        1037,
+        17260,
+        6277,
+        2091,
+        1037,
+        2395,
+        102
+      ],
+      "new_tokens": 10,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "거리에서 스케이트 보드를 타고 다니는 남자",
+      "token_ids": [
+        2,
+        128052,
+        10435,
+        1509,
+        1903,
+        8938,
+        55792,
+        36342,
+        4892,
+        98482,
+        23108,
+        1357,
+        7220,
+        5158,
+        1029,
+        96754,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "image_id": 574804,
+    "file_name": "COCO_val2014_000000574804.jpg",
+    "greedy": {
+      "caption": "a woman standing next to a bench with skis on it",
+      "token_ids": [
+        30522,
+        1037,
+        2450,
+        3061,
+        2279,
+        2000,
+        1037,
+        6847,
+        2007,
+        8301,
+        2015,
+        2006,
+        2009,
+        102
+      ],
+      "new_tokens": 13,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a woman standing next to a bench with skis on it",
+      "token_ids": [
+        30522,
+        1037,
+        2450,
+        3061,
+        2279,
+        2000,
+        1037,
+        6847,
+        2007,
+        8301,
+        2015,
+        2006,
+        2009,
+        102
+      ],
+      "new_tokens": 13,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "벤치 옆에 서있는 여인, 그 위에 스키가 있습니다.",
+      "token_ids": [
+        2,
+        128052,
+        22,
+        85500,
+        6085,
+        22,
+        118124,
+        668,
+        15250,
+        43790,
+        12520,
+        2030,
+        4,
+        3515,
+        11149,
+        668,
+        8938,
+        17955,
+        949,
+        6494,
+        5,
+        2
+      ]
+    }
+  },
+  {
+    "image_id": 577033,
+    "file_name": "COCO_val2014_000000577033.jpg",
+    "greedy": {
+      "caption": "a group of men rowing in a lake",
+      "token_ids": [
+        30522,
+        1037,
+        2177,
+        1997,
+        2273,
+        12037,
+        1999,
+        1037,
+        2697,
+        102
+      ],
+      "new_tokens": 9,
+      "ended_with_eos": true
+    },
+    "beam3": {
+      "caption": "a group of men rowing down a river",
+      "token_ids": [
+        30522,
+        1037,
+        2177,
+        1997,
+        2273,
+        12037,
+        2091,
+        1037,
+        2314,
+        102
+      ],
+      "new_tokens": 9,
+      "ended_with_eos": true
+    },
+    "korean": {
+      "text": "그룹의 사람들은 강을 내려다",
+      "token_ids": [
+        2,
+        128052,
+        3515,
+        63105,
+        526,
+        14179,
+        15678,
+        11238,
+        520,
+        7835,
+        9068,
+        2273,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+]

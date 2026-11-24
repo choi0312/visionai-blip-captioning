@@ -1,0 +1,55 @@
+{
+  "gpu": "Apple M4 (Metal/MPS)",
+  "device": "mps",
+  "python": "3.12.14",
+  "packages": {
+    "torch": "2.15.0",
+    "torchvision": "0.29.2",
+    "transformers": "4.57.1",
+    "numpy": "2.5.5",
+    "Pillow": "13.0.0",
+    "sentencepiece": "0.2.1",
+    "pycocoevalcap": "1.2",
+    "matplotlib": "3.11.2",
+    "huggingface_hub": "0.36.2"
+  },
+  "seed": 42,
+  "precision": "float32",
+  "batch_size": 8,
+  "tf32": false,
+  "model_parameters": 223971644,
+  "translation_parameters": 483905536,
+  "timings": {
+    "greedy_loop_s": 11.323757666999882,
+    "beam3_loop_s": 20.59865812499629,
+    "translation_loop_s": 13.747416334001173
+  },
+  "caption_peak_cuda_allocated_bytes": null,
+  "translation_peak_cuda_allocated_bytes": null,
+  "attention_alignment_prefix_logit_max_abs_error": 0.0,
+  "preprocessing": {
+    "_processor_class": "BlipProcessor",
+    "image_processor_type": "BlipImageProcessor",
+    "do_resize": true,
+    "size": {
+      "height": 384,
+      "width": 384
+    },
+    "resample": 3,
+    "do_rescale": true,
+    "rescale_factor": 0.00392156862745098,
+    "do_normalize": true,
+    "image_mean": [
+      0.48145466,
+      0.4578275,
+      0.40821073
+    ],
+    "image_std": [
+      0.26862954,
+      0.26130258,
+      0.27577711
+    ],
+    "do_convert_rgb": true
+  },
+  "scope": "No additional training. Known Karpathy train/val exclusion; unknown web-pretraining duplication cannot be ruled out."
+}

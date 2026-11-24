@@ -1,0 +1,8 @@
+transformers==4.57.1
+numpy==2.5.5
+Pillow==13.0.0
+sentencepiece==0.2.1
+pycocoevalcap==1.2
+matplotlib==3.11.2
+huggingface_hub==0.36.2
+sacremoses==0.1.1

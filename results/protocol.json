@@ -1,0 +1,56 @@
+{
+  "model": "Salesforce/blip-image-captioning-base",
+  "revision": "82a37760796d32b1411fe092ab5d4e227313294b",
+  "seed": 42,
+  "precision": "float32",
+  "batch_size": 8,
+  "gradient_updates": 0,
+  "input": "images only, no text prefix",
+  "conditions": {
+    "greedy": {
+      "max_new_tokens": 30,
+      "min_new_tokens": 3,
+      "do_sample": false,
+      "num_return_sequences": 1,
+      "length_penalty": 1.0,
+      "repetition_penalty": 1.0,
+      "no_repeat_ngram_size": 0,
+      "num_beams": 1
+    },
+    "beam3": {
+      "max_new_tokens": 30,
+      "min_new_tokens": 3,
+      "do_sample": false,
+      "num_return_sequences": 1,
+      "length_penalty": 1.0,
+      "repetition_penalty": 1.0,
+      "no_repeat_ngram_size": 0,
+      "num_beams": 3,
+      "early_stopping": true
+    }
+  },
+  "primary_condition": "beam3",
+  "sample": "100 CC BY 2.0 images in Karpathy test, disjoint from author train/val; see data/manifest.json",
+  "attention": {
+    "image_ids": [
+      4972,
+      19888,
+      21198,
+      23117
+    ],
+    "rule": "first 4 selected IDs, teacher-force generated beam3 caption, final decoder layer cross-attention mean over all 12 heads",
+    "alignment": "row j-1 predicts token sequence[j], with decoder input sequence[:-1]; retain CLS weight separately and renormalize patch weights only for display",
+    "causality": "diagnostic association, not causal attribution, segmentation or proof of grounding"
+  },
+  "translation": {
+    "model": "facebook/m2m100_418M",
+    "revision": "55c2e61bbf05dfb8d7abccdc3fae6fc8512fd636",
+    "source": "en",
+    "target": "ko",
+    "input": "beam3 English caption only; translator sees no image",
+    "num_beams": 4,
+    "max_new_tokens": 64,
+    "do_sample": false
+  },
+  "evaluation": "5 English references per image; PTB tokenizer; corpus BLEU-4 and CIDEr on these 100 images, IDF on 100 references; no Korean reference scores; no test tuning"
+}
